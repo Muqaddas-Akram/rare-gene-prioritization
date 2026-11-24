@@ -1,0 +1,2 @@
+selected_diseases,eligible_diseases,genes,phenotypes,disease_gene_edges,disease_phenotype_edges,gene_phenotype_edges,average_genes_per_selected_disease,average_phenotypes_per_selected_disease
+4245,700,2270,4637,3501,21695,17361,2.0,16.91

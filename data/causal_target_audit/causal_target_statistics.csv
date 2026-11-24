@@ -1,0 +1,2 @@
+input_evidence_rows,input_unique_pairs,retained_causal_evidence_rows,retained_unique_causal_pairs,excluded_only_unique_pairs,diseases_with_at_least_one_causal_gene,eligible_diseases_min_2_causal_genes,eligible_causal_pairs,eligible_unique_genes
+3499,3480,2646,2641,839,569,512,2584,1808

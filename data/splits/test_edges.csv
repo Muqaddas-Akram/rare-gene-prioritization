@@ -1,0 +1,644 @@
+disease_id,gene_id,gene_symbol,association_type,edge_type
+ORPHA:100069,9508,PSEN1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:100070,6893,MAPT,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:100070,22407,TMEM106B,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:101046,20619,MICAL1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1020,11185,SORL1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:104,7455,MT-ND1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:104,7460,MT-ND4L,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1052,30794,CEP57,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:107,10887,SIX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:110,29021,CEP290,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:110,20087,TTC8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:110,28209,CEP19,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:110,18626,IFT27,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:110,6741,LZTFL1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1114,6158,ITGB4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1143,18603,COL25A1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1146,7549,MYBPC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1147,7573,MYH3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:117,6998,MEFV,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:117,4932,HLA-B,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:117,11920,FAS,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:124,10402,RPS19,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:124,10328,RPL27,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:124,10334,RPL31,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:124,10310,RPL18,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:124,10440,RPS7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:130,10582,SCN10A,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:130,16643,SLMAP,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:130,28956,GPD1L,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:130,6239,KCND3,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:131,6192,JAK2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1333,26144,PALB2,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1333,18072,RABL3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1334,18358,IL17RC,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1340,6407,KRAS,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1369,21869,AGK,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1377,2411,CRYGD,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1377,2398,CRYBB2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:137888,3176,EDN1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:139411,10682,SDHC,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:139536,15832,BSCL2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:140957,4439,GP1BA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:140957,4238,GFI1B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:141291,6121,IRF6,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1425,24290,CSGALNACT1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:144,11773,TGFBR2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:144,9122,PMS2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:145,9823,RAD51D,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:145,1101,BRCA2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:145,795,ATM,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1454,29253,CC2D2A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1465,11103,SMARCB1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1465,11100,SMARCA4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1466,3433,ERCC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1501,18126,ZNRF3,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1515,29250,WDR35,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,12665,VCL,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,11949,TNNT2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,4808,HAND2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,3703,FHL2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,11875,TMPO,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,11532,TAF1A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,12403,TTN,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,25686,PPCS,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,26973,C10ORF71,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,10593,SCN5A,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,10351,RPL3L,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1606,9412,PRKCZ,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1606,5273,HSPG2,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1606,14985,LUZP1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:163693,30228,PREPL,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1646,15966,DAZ4,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1646,15964,DAZ2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:166002,2218,COL9A2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:169160,1674,CD3E,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:169186,16901,SPEG,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:169189,1052,BIN1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:170,15520,LPAR6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171,7380,MST1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171430,16905,KLHL41,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171433,7720,NEB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171436,12011,TPM2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171439,16905,KLHL41,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171876,10599,SCNN1A,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171881,12011,TPM2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1766,1382,CA8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1775,11727,TERC,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1775,25070,ACD,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1775,15888,RTEL1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:177901,32781,SNORD116@,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:177904,8101,OCA2,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:177910,6814,MAGEL2,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1782,11647,TCIRG1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1810,12036,TRAF6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1848,4243,GFRA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:186,14668,MMEL1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:186,17103,TNPO3,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1871,4394,GNAT2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,10729,SEMA4A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,17282,RIMS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,359,AIPL1,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,791,ATF6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,21043,PITPNM3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,28769,DRAM2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1872,2383,CRX,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:189427,4392,GNAS,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1930,18348,TICAM1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1934,1497,CASK,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1934,15579,TRIM8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1934,19954,SLC25A22,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1934,9154,PNKP,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1942,1917,CHD2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1945,30668,SRPX2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1980,14686,JAM2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1980,27015,CMPK2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:199,2468,SMC3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:199302,7391,MSX1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:199306,15979,TP63,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:199306,30207,ARHGAP29,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:199306,17686,RIC1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2020,129,ACTA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2020,6143,ITGA7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2032,7516,MUC5B,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2032,19367,FAM13A,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2032,10802,SFTPC,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2050,2379,CRTAP,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2052,18708,GRIP1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2065,28905,YRDC,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2065,24259,TPRKB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2073,2535,CTSH,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2073,4847,HCRT,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:210110,11647,TCIRG1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2128,4713,H19,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2131,1388,CACNA1A,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2131,10588,SCN2A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2136,29426,CCBE1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2138,11204,SOX9,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2140,4174,GATA6,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2199,6423,KRT16,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220295,3434,ERCC2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,12873,ZIC2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,9585,PTCH1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,3814,FOXH1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,11111,SMC1A,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220393,1527,CAV1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220402,1527,CAV1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220493,26690,CEP120,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220497,7905,NPHP1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:221061,1573,KRIT1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2241,145,ACTG2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:225154,17359,NUP54,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2254,17258,AGTPBP1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:226307,6595,LHX3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2268,2979,DNMT3B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2309,6444,KRT6B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2311,15977,HES7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:231160,11774,TGFBR3,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:231169,43724,USH1K,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:231169,12597,USH1C,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:231178,17416,ADGRV1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:231183,7498,MT-TS2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2318,14432,TMEM237,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:233,15924,SALL4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2340,15455,MBTPS2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2345,7013,MEOX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2363,3690,FGFR3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2382,19347,CUX2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:238722,9817,RAD51,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:243,7327,MSH4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:243,28971,SPIDR,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,26560,ODAD1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,2942,DNAH11,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,21493,DNAAF4,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,21558,RSPH4A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,24846,GAS2L2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,40050,MCIDAS,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,29368,CFAP74,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,4166,DRC4,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,26293,SPEF2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,26013,DNAAF5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244,3816,FOXJ1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2440,2918,DLX5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2440,10847,FBXW4,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:244242,5394,CFI,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:247262,17893,PGAP2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2478,17082,MLC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:248,2895,EDAR,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2495,20456,TRAF7,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2495,11730,TERT,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:250923,19016,TRIM44,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:250984,2218,COL9A2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2510,16133,TBC1D20,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2512,30262,PYCR2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2512,29101,ANKLE2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2512,19181,KIF14,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2512,12729,WARS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2512,25604,TRAPPC14,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2512,1985,CIT,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:251380,13221,BCL11A,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:251510,12799,WWOX,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:251510,12796,WT1,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2518,16691,TUBGCP4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2524,27561,TSEN54,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254525,14575,MEG3,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254528,14665,RTL1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254531,14575,MEG3,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254534,2907,DLK1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254886,11992,TOP3A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254892,9180,POLG2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254913,850,ATP5PO,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:254913,837,ATP5F1D,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:255210,7414,MT-ATP6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:255210,7501,MT-TW,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2554,24576,CDT1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2556,4837,HCCS,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:256,9437,EIF2AK2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2573,14539,RNF213,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2584,2505,CTLA4,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2593,11386,STIM1,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2609,7683,NDUFA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2609,7715,NDUFS8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2609,7458,MT-ND3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2609,7711,NDUFS4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2609,33551,NDUFAF8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2609,7456,MT-ND2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:261183,12417,TUBG1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2612,5173,HRAS,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:261330,1014,BCR,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:261349,12825,XPO1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2616,21024,CUL7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2623,6716,LTBP3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2680,8011,CNTNAP1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:269,3082,DUX4L1,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:274,4440,GP1BB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2754,29110,KIAA0753,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2754,25801,CPLANE1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:275555,19012,CORIN,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:275864,28337,C9ORF72,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:275864,11280,SQSTM1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:275872,4010,FUS,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:276621,10681,SDHB,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280,2309,CPLX1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280195,17104,CDON,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280195,4165,GAS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280195,10848,SHH,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280200,7865,NODAL,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280200,12873,ZIC2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280200,4318,GLI2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280763,572,AP4B1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2828,16369,PARK7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2828,14581,PINK1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2850,6161,ITGB6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:287,2209,COL5A1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:288,11272,SPTA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:289,24595,DYNC2LI1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:29072,9967,RET,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:29072,26034,SDHAF2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:29072,7765,NF1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2924,21082,SEC63,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:293181,13818,SLC12A5,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:293181,15917,PLCB1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:293843,2220,COLEC10,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:296,5382,IDH1,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2965,13733,CDH23,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:298,17296,RRM2B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:300605,11278,SPTLC2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:300605,11226,SPG11,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:300605,23657,GNE,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:302,20474,TMC8,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:306,30500,PRRT2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:307,6199,JRK,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:307,2020,CLCN2,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:308,2482,CSTB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3095,6990,MECP2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3107,4040,FZD2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:313,26321,ASPRV1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:313,23452,LIPN,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3156,17861,IFT54,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3156,17870,INVS,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3157,11199,SOX3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3162,2505,CTLA4,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:317,4274,GJA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:319487,4798,HABP2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3197,4326,GLRA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3202,11027,SLC4A1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3208,10680,SDHA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3237,7866,NOG,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:324604,15999,SELENON,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3261,11920,FAS,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3287,4932,HLA-B,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:329971,1076,BMPR1A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3301,28583,RSPO2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3303,4174,GATA6,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3303,1987,CITED2,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3303,4279,GJA5,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33069,4075,GABRA1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33110,11241,SPI1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33110,14211,BLNK,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3318,6192,JAK2,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3322,8609,PARN,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33364,3435,ERCC3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33364,11572,TARS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3337,11019,SLC34A1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:334,7939,NPPA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:334,6266,KCNJ5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:334,32940,NKX2-6,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:334,6224,KCNA5,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:334,20665,SCN3B,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3437,11920,FAS,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3447,14234,NSD1,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3449,13201,ADAMTS10,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3473,6292,KCNN3,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:35099,11623,TCF12,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:353327,4241,GFPT1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:35612,24529,TMEM98,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:35612,2343,CRB1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:357074,18481,ATP6V0A2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:361,18155,TXNRD2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:36386,11277,SPTLC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:36387,17416,ADGRV1,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:36387,10588,SCN2A,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:36387,30500,PRRT2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:364055,10294,RPE65,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:364055,6685,LRAT,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:36899,3023,DRD2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:370959,19743,POMT2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:370968,22932,GMPPB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:370980,3622,FKTN,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:377,16466,SUFU,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:379,2577,CYBA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:388,3431,ERBB3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:388,61,ABCD1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:388,11119,SMO,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:39041,22208,NUDCD3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:39041,20626,CHD7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:391411,15469,DNAJC6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:391665,18640,LDLRAP1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:397,9652,PTPN22,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:397590,1786,CDKN1C,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,1884,CFTR,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,25079,CCDC34,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,15805,GCNA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,7201,MOV10L1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,20997,ZMYND15,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,23168,FANCM,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,23044,NANOS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,11538,TAF4B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:402075,7881,NOTCH1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:411515,13542,ATP10A,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:411602,11960,GIGYF2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,7818,NHLH2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,11521,TAC3,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,29843,NSMF,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,13831,WDR11,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:44,8856,PEX14,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:44,8858,PEX3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:44,8853,PEX11B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:440437,10729,SEMA4A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:440437,9175,POLD1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,1399,CACNA2D1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,6234,KCNC2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,29046,FBXO28,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,851,ATP6V1A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,24539,NECAP1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,2550,CELF2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,18423,DEPDC5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,801,ATP1A3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,19701,CNKSR2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,25536,DALRD3,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,18044,SLC38A3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:44890,10682,SDHC,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:45358,18603,COL25A1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:46532,4827,HBB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:467166,30829,TUBB2B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:474,21862,DYNC2I1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:474,24595,DYNC2LI1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,19959,TOGARAM1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,19960,KIAA0586,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,1307,CBY1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,26193,CSPP1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,24123,B9D1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,26113,TCTN1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:478,3341,EMX2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:478,13831,WDR11,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:478,22788,FEZF1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:478,3072,DUSP6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:480,7490,MT-TL1,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:486,11300,SRP19,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:49382,2150,CNGA3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:500,9829,RAF1,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:502,9811,RAD21,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:51,24116,RNASEH2C,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:51,30860,LSM11,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:51083,11029,SLC4A3,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:520,29529,TBL1XR1,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:520,19124,FIP1L1,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:520,8059,NUMA1,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:52022,450,ALX4,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:521,10471,RUNX1,Biomarker tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:524,1787,CDKN2A,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:52416,5477,IGH,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:52417,591,BIRC3,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:52427,9942,PRPH2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:52430,12666,VCP,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:526,10600,SCNN1B,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:531,8574,PAFAH1B1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:536,3488,ETS1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:536,2505,CTLA4,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:536,5962,IL10,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:536,8760,PDCD1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:536,1323,C4A,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:536,3618,FCGR2B,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:540,11429,STX11,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:545,990,BCL2,Part of a fusion gene in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:550,7481,MT-TF,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:550,7498,MT-TS2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:550,7497,MT-TS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:551,7490,MT-TL1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:551,7487,MT-TH,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:552,59,ABCC8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:552,6107,PDX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:552,5024,HNF4A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:55654,6708,LSS,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:564,28636,B9D2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:564,26113,TCTN1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:564,29021,CEP290,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:567,11592,TBX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:567,10705,SEC24C,Modifying germline mutation in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:569,30500,PRRT2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:572,9987,RFXANK,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:573,6460,KRT83,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:586,8941,SERPINA1,Modifying germline mutation in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:586,14469,SLC26A9,Modifying germline mutation in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:586,11073,SLC9A3,Modifying germline mutation in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:586,1818,CEACAM6,Modifying germline mutation in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:588,9202,POMT1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:588,37276,CRPPA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:60030,11773,TGFBR2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:60033,10600,SCNN1B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:610,2212,COL6A2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:618,19246,TERF2IP,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:618,1787,CDKN2A,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:626,1097,BRAF,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:635,6641,LMO1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:64280,4087,GABRG2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:648,10447,RRAS,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:648,1541,CBL,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:648,6742,LZTR1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,19689,RD3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,10294,RPE65,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,29021,CEP290,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,20423,SPATA7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,8754,PCYT1A,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:652,7010,MEN1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:654,4713,H19,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:654,4451,GPC3,Biomarker tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,14188,AVIL,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,166,ACTN4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,3334,EMP2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,9678,PTPRO,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,18658,NUP205,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,12796,WT1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:656,678,ARHGDIA,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:659,17637,PERP,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:661,13879,MYO1H,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:663,7497,MT-TS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:667,2025,CLCN7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:668,16627,CHEK2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:676,2523,CTRC,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:681,6243,KCNE3,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:685082,33,ABCA3,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:69665,3706,ATP8B1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:697160,18060,ARX,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:697160,20990,PHACTR1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:697160,11273,SPTAN1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:7,28984,WASHC5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:705,8818,SLC26A4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:70567,9655,PTPN3,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:708,8620,PAX6,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:71275,10006,RHAG,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:71493,11795,THPO,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:730,14889,DNAJB11,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:730,15672,ALG9,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75249,23246,MYPN,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75376,5394,CFI,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75377,9942,PRPH2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75840,2188,COL12A1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:772,8855,PEX13,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:772,8854,PEX12,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:772,8858,PEX3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:774,6770,SMAD4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:776,11957,MED12,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,8789,PDE6G,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,6052,IMPDH1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,17211,DHX38,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,10729,SEMA4A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,25808,FAM161A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,8002,NRL,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,19139,POMGNT1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,30078,REEP6,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,13081,SCAPER,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,8785,PDE6A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,26498,ZNF513,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,29523,CFAP20,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,29077,IFT140,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,19041,COQ8B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,9990,RGR,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,10227,RNU6-1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,17090,ARHGEF18,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,967,BBS2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,6816,MAK,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79102,4077,GABRA3,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79134,59,ABCC8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79145,14988,POFUT1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79394,11777,TGM1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79394,430,ALOX12B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:794,3689,FGFR2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79402,6483,LAMA3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79404,6483,LAMA3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,483,ANG,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,11571,TARDBP,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,28337,C9ORF72,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,12666,VCP,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,12509,UBQLN2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,1260,CFAP410,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,3432,ERBB4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:805,12362,TSC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:808,9891,RBBP8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:808,25815,CEP63,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:808,11397,PLK4,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:811,27030,DNAJC21,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:822,11274,SPTB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:824,25941,TET2,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:827,14415,ELOVL4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:83465,4948,HLA-DRB1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:83473,8980,PIK3R2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:84,1100,BRCA1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:84,3582,FANCA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:84,3584,FANCC,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:84,3585,FANCD2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:84,20748,FANCL,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:85193,15983,WNT3A,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:853,6137,ITGA2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:85408,6008,IL2RA,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:85410,11365,STAT4,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:85414,7097,MIF,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:861,20194,POLR1C,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:86814,16854,RAPGEF2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:86814,2172,CNTN2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:86818,6241,KCNE5,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:869,13666,AAAS,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:86909,2309,CPLX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:871,17993,TRPM4,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:88,5438,IFNG,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:891,2514,CTNNB1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:893,12796,WT1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:895,3180,EDNRB,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:897,3178,EDN3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:89844,17619,NDE1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:899,2666,DAG1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:899,26267,POMK,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:899,25902,POMGNT2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:89938,2026,CLCNKA,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:900,9652,PTPN22,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90026,10583,SCN11A,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90050,7678,NDP,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90321,3436,ERCC4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90322,3433,ERCC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90348,3602,FBLN5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90349,3602,FBLN5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:904,11433,STX1A,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:904,23018,TMEM270,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:904,3327,ELN,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:904,4659,GTF2I,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:910,3437,ERCC5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:912,8851,PEX10,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:912,8857,PEX16,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:912,9717,PEX2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:91387,29673,MFAP5,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:91387,130,ACTA2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:91387,25835,THSD4,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:91387,6768,SMAD2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:91495,13907,ATOH7,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:930,4942,HLA-DQA1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93271,29250,WDR35,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93388,1077,BMPR1B,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93396,1069,BMP2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93552,11365,STAT4,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93921,11103,SMARCB1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93924,19711,DISP1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93924,4165,GAS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93924,3686,FGF8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93925,10848,SHH,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93925,11355,STAG2,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93925,4165,GAS1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93926,12873,ZIC2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93926,11701,CRIPTO,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93926,10889,SIX3,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:952,2514,CTNNB1,Disease-causing germline mutation(s) (gain of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95494,4877,HESX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95496,4877,HESX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95713,8818,SLC26A4,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95716,11040,SLC5A5,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95720,8818,SLC26A4,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:96184,2907,DLK1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:96253,886,ATRX,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:96334,2907,DLK1,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:970,14540,WNK1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:97286,10682,SDHC,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:974,7881,NOTCH1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98673,9255,PPIB,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98754,6814,MAGEL2,Role in the phenotype of,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98784,18423,DEPDC5,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98808,4193,GCH1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98809,6256,KCNJ10,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98820,14124,NPRL3,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98849,25941,TET2,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98850,25941,TET2,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98853,17089,SYNE1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98880,3661,FGA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98881,3694,FGG,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98889,8983,PI4KA,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98892,6836,MAP1B,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98897,31708,LRP12,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98915,2226,COLQ,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98973,12723,VSX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98974,11642,ZEB1,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98976,2597,CYP1B1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98977,2597,CYP1B1,Major susceptibility factor in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99000,18362,IMPG2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99103,1987,CITED2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99103,143,ACTC1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:994,9863,RAPSN,Disease-causing germline mutation(s) (loss of function) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:994,6814,MAGEL2,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99798,12775,WNT10B,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99798,13829,WNT10A,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99802,3942,MTOR,Disease-causing somatic mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99803,738,ASCL1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99845,15719,OBSCN,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99879,7010,MEN1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99885,6107,PDX1,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99886,59,ABCC8,Disease-causing germline mutation(s) in,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99977,11773,TGFBR2,Candidate gene tested in,DISEASE_ASSOCIATED_WITH_GENE

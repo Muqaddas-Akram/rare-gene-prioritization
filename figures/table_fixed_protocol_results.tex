@@ -1,0 +1,21 @@
+\begin{table}[htbp]
+\centering
+\caption{Fixed-protocol test performance of structural baselines and graph neural network models.}
+\label{tab:fixed_protocol_results}
+\begin{tabular}{llccccc}
+\hline
+Setting & Model & AUROC & AUPRC & Hits@10 & Hits@20 & MRR \\
+\hline
+dg_only & Gene degree & 0.629 & 0.363 & 0.056 & 0.073 & 0.027 \\
+dg_only & 3-step walk & 0.797 & 0.688 & 0.458 & 0.531 & 0.269 \\
+dg_only & ID-MLP & 0.574 & 0.327 & 0.017 & 0.050 & 0.010 \\
+dg_only & GraphConv & 0.675 & 0.491 & 0.134 & 0.140 & 0.104 \\
+dg_only & GraphSAGE & 0.590 & 0.330 & 0.017 & 0.045 & 0.011 \\
+dg_only & GAT & 0.645 & 0.442 & 0.089 & 0.112 & 0.084 \\
+dg_plus_dp & Phenotype cosine & 0.912 & 0.828 & 0.346 & 0.447 & 0.230 \\
+dg_plus_dp & GraphConv & 0.778 & 0.628 & 0.162 & 0.207 & 0.106 \\
+dg_plus_dp & GraphSAGE & 0.623 & 0.347 & 0.034 & 0.045 & 0.017 \\
+dg_plus_dp & GAT & 0.591 & 0.369 & 0.050 & 0.067 & 0.040 \\
+\hline
+\end{tabular}
+\end{table}

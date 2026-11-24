@@ -1,0 +1,4 @@
+split,positive_edges,positive_fraction,diseases,negative_pairs,duplicate_sample_pairs,positive_edges_gene_absent_from_training_DG,unique_genes_absent_from_training_DG
+train,1602,0.6199690402476781,512,4806,0,0,0
+val,437,0.16911764705882354,400,1311,0,289,279
+test,545,0.21091331269349844,400,1635,0,366,342

@@ -1,0 +1,4 @@
+split,original_positive_pairs,retained_positive_pairs,excluded_isolated_gene_positive_pairs,retained_diseases,sampled_unobserved_negative_pairs,candidate_genes,duplicate_classification_pairs
+train,1602,1602,0,512,4806,1230,0
+val,437,148,289,145,444,1230,0
+test,545,179,366,142,537,1230,0

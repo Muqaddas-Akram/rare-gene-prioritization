@@ -1,0 +1,9 @@
+{
+  "target_message_edges": "training only; held-out positives absent in both directions",
+  "gene_phenotype_edges": "excluded",
+  "hierarchy": "excluded",
+  "features": "not generated",
+  "training": "not performed",
+  "warning": "isolated genes have no message-passing evidence; feature and evaluation strategy must be decided before interpreting a benchmark",
+  "scope": "known-disease link completion, not clinical diagnostic validation"
+}

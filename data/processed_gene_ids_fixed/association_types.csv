@@ -1,0 +1,17 @@
+association_type,association_status,evidence_rows
+Biomarker tested in,Assessed,7
+Biomarker tested in,Not yet assessed,1
+Candidate gene tested in,Assessed,7
+Candidate gene tested in,Not yet assessed,203
+Disease-causing germline mutation(s) (gain of function) in,Assessed,83
+Disease-causing germline mutation(s) (loss of function) in,Assessed,445
+Disease-causing germline mutation(s) in,Assessed,2118
+Disease-causing germline mutation(s) in,Not yet assessed,4
+Disease-causing somatic mutation(s) in,Assessed,78
+Major susceptibility factor in,Assessed,285
+Major susceptibility factor in,Not yet assessed,31
+Modifying germline mutation in,Assessed,42
+Modifying germline mutation in,Not yet assessed,1
+Part of a fusion gene in,Assessed,43
+Role in the phenotype of,Assessed,148
+Role in the phenotype of,Not yet assessed,3

@@ -1,0 +1,17 @@
+{
+  "scope": "validation-only controls; no test scoring; deterministic, no seed SD",
+  "gene_degree": "number of training diseases associated with gene; ignores query disease",
+  "dg_three_step_walk": "(row_normalize(A)) @ (row_normalize(A.T)) @ (row_normalize(A))",
+  "dp_cosine_transfer": "cosine similarity of direct disease HPO profiles, diagonal zero; weighted sum of training disease-gene links divided by similarity sum",
+  "not_reimplementations": "these simple controls are not PRINCE, RWR-with-restart or Phen2Disease",
+  "ranking": "filter other known causal pairs; average-tie rank, same convention as current neural script",
+  "tie_warning": "Hits@K/MRR from average ranks are not expected random-tie-breaking Hits@K/MRR; sparse-score baselines can have many ties",
+  "scores": "uncalibrated raw ranking scores; no threshold-based classification metrics",
+  "source_hashes": {
+    "train_edges.csv": "a195856f77afc2e31d9fb61618465402b05008a1cc80014bd51d17f0931ba6b1",
+    "val_edges.csv": "f084d8296e28516c4d3866e4f758d521ac361fbd067a3e775f2167452e3d74d3",
+    "val_classification_samples.csv": "b881091db3a02b257cce1d590a1f73d0daa2125f9d7e76073adcf206f3c71e44",
+    "edges_disease_phenotype.csv": "05c3c1400914bb4d9ce57a7c7d39377a80b901f8d77913a42c6408b0789afa0f",
+    "known_causal_pairs_for_filtering.csv": "514e9a2424c98b9bf4ae07692bc97627b1580d5fa883c1d5a9db7f076f7a1184"
+  }
+}

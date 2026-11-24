@@ -1,0 +1,35 @@
+{
+  "created_utc": "2026-10-30T18:30:53.828449+00:00",
+  "canonical_gene_namespace": "NCBIGene",
+  "mapping": "unambiguous approved HGNC IDs to NCBI; no symbol-only fallback",
+  "min_genes": 2,
+  "min_phenotypes": 5,
+  "disease_phenotype_mapping": "direct ORPHA/Orphanet IDs only",
+  "association_filter": "all mapped association types retained; NOT all are necessarily causal",
+  "hierarchy": "not built",
+  "splits": "not built",
+  "provenance_audit": "gene-phenotype annotations may be disease-derived; needs leakage review before training",
+  "hpo_disease_source_counts": {
+    "OMIM": 169694,
+    "DECIPHER": 296,
+    "ORPHA": 116661
+  },
+  "files": {
+    "hgnc_complete_set.txt": {
+      "bytes": 16986126,
+      "sha256": "d93ce6b22d01dc1e1ded28857246951d605ead47ed17ef973ad1142b1d13bed0"
+    },
+    "en_product6.xml": {
+      "bytes": 22612034,
+      "sha256": "f1c039f78683beea7ca5b34d1c01c4ec98f80e8ca488eee69770074db1020e39"
+    },
+    "phenotype.hpoa": {
+      "bytes": 35816037,
+      "sha256": "e89aa39c8f97bf5a52c5d160f9250a603681d630ade8ec2679d84ac5aece1f72"
+    },
+    "genes_to_phenotype.txt": {
+      "bytes": 20821704,
+      "sha256": "507a17bff9c49e6329fbd88b1f91734fa7e9fdea5c06304044c0892eb6ab248c"
+    }
+  }
+}

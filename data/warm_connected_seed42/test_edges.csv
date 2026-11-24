@@ -1,0 +1,180 @@
+disease_id,gene_id,gene_symbol,hgnc_id,source_gene_symbol,association_type,association_status,edge_type
+ORPHA:1020,NCBIGene:5663,PSEN1,HGNC:9508,PSEN1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:104,NCBIGene:4538,MT-ND4,HGNC:7459,MT-ND4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:110,NCBIGene:54903,MKS1,HGNC:7121,MKS1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1146,NCBIGene:7136,TNNI2,HGNC:11946,TNNI2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1147,NCBIGene:4621,MYH3,HGNC:7573,MYH3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:124,NCBIGene:6224,RPS20,HGNC:10405,RPS20,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1340,NCBIGene:673,BRAF,HGNC:1097,BRAF,Disease-causing germline mutation(s) (gain of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1369,NCBIGene:291,SLC25A4,HGNC:10990,SLC25A4,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:140927,NCBIGene:3785,KCNQ2,HGNC:6296,KCNQ2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:145,NCBIGene:5889,RAD51C,HGNC:9820,RAD51C,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1454,NCBIGene:23322,RPGRIP1L,HGNC:29168,RPGRIP1L,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1466,NCBIGene:2068,ERCC2,HGNC:3434,ERCC2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1515,NCBIGene:112752,IFT43,HGNC:29669,IFT43,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,NCBIGene:84665,MYPN,HGNC:23246,MYPN,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,NCBIGene:4624,MYH6,HGNC:7576,MYH6,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:154,NCBIGene:10060,ABCC9,HGNC:60,ABCC9,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1545,NCBIGene:9244,CRLF1,HGNC:2364,CRLF1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:16,NCBIGene:5956,OPN1LW,HGNC:9936,OPN1LW,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:170,NCBIGene:200879,LIPH,HGNC:18483,LIPH,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171430,NCBIGene:4703,NEB,HGNC:7720,NEB,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171433,NCBIGene:10324,KLHL41,HGNC:16905,KLHL41,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171436,NCBIGene:4703,NEB,HGNC:7720,NEB,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171439,NCBIGene:58,ACTA1,HGNC:129,ACTA1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:171881,NCBIGene:7169,TPM2,HGNC:12011,TPM2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1775,NCBIGene:51750,RTEL1,HGNC:15888,RTEL1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1871,NCBIGene:54714,CNGB3,HGNC:2153,CNGB3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1934,NCBIGene:170302,ARX,HGNC:18060,ARX,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1934,NCBIGene:23221,RHOBTB2,HGNC:18756,RHOBTB2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:1949,NCBIGene:3786,KCNQ3,HGNC:6297,KCNQ3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2020,NCBIGene:7169,TPM2,HGNC:12011,TPM2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2053,NCBIGene:4621,MYH3,HGNC:7573,MYH3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:210110,NCBIGene:10312,TCIRG1,HGNC:11647,TCIRG1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2131,NCBIGene:478,ATP1A3,HGNC:801,ATP1A3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2138,NCBIGene:6662,SOX9,HGNC:11204,SOX9,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220295,NCBIGene:2071,ERCC3,HGNC:3435,ERCC3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,NCBIGene:2260,FGFR1,HGNC:3688,FGFR1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,NCBIGene:10735,STAG2,HGNC:11355,STAG2,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220386,NCBIGene:6997,CRIPTO,HGNC:11701,CRIPTO,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220493,NCBIGene:54903,MKS1,HGNC:7121,MKS1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:220497,NCBIGene:4867,NPHP1,HGNC:7905,NPHP1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:225154,NCBIGene:103,ADAR,HGNC:225,ADAR,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:226307,NCBIGene:8820,HESX1,HGNC:4877,HESX1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:231183,NCBIGene:7401,CLRN1,HGNC:12605,CLRN1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2318,NCBIGene:79583,TMEM231,HGNC:37234,TMEM231,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:248,NCBIGene:10913,EDAR,HGNC:2895,EDAR,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:251393,NCBIGene:3691,ITGB4,HGNC:6158,ITGB4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:255210,NCBIGene:4538,MT-ND4,HGNC:7459,MT-ND4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2639,NCBIGene:8200,GDF5,HGNC:4220,GDF5,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2754,NCBIGene:65250,CPLANE1,HGNC:25801,CPLANE1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:2754,NCBIGene:26123,TCTN3,HGNC:24519,TCTN3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:275872,NCBIGene:7415,VCP,HGNC:12666,VCP,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280195,NCBIGene:6469,SHH,HGNC:10848,SHH,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280195,NCBIGene:7050,TGIF1,HGNC:11776,TGIF1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280195,NCBIGene:8928,FOXH1,HGNC:3814,FOXH1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280200,NCBIGene:2619,GAS1,HGNC:4165,GAS1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:280200,NCBIGene:8928,FOXH1,HGNC:3814,FOXH1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:289176,NCBIGene:5167,ENPP1,HGNC:3356,ENPP1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:293181,NCBIGene:6326,SCN2A,HGNC:10588,SCN2A,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:300605,NCBIGene:57679,ALS2,HGNC:443,ALS2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:306,NCBIGene:3785,KCNQ2,HGNC:6296,KCNQ2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:309256,NCBIGene:5660,PSAP,HGNC:9498,PSAP,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:309263,NCBIGene:410,ARSA,HGNC:713,ARSA,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:313,NCBIGene:6820,SULT2B1,HGNC:11459,SULT2B1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3156,NCBIGene:57728,WDR19,HGNC:18340,WDR19,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3157,NCBIGene:128674,PROKR2,HGNC:15836,PROKR2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3208,NCBIGene:6389,SDHA,HGNC:10680,SDHA,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3220,NCBIGene:5189,PEX1,HGNC:8850,PEX1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:324604,NCBIGene:57190,SELENON,HGNC:15999,SELENON,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3250,NCBIGene:9241,NOG,HGNC:7866,NOG,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:329971,NCBIGene:4089,SMAD4,HGNC:6770,SMAD4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33069,NCBIGene:6324,SCN1B,HGNC:10586,SCN1B,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:3322,NCBIGene:7015,TERT,HGNC:11730,TERT,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33364,NCBIGene:2071,ERCC3,HGNC:3435,ERCC3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:33364,NCBIGene:2068,ERCC2,HGNC:3434,ERCC2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:334,NCBIGene:3762,KCNJ5,HGNC:6266,KCNJ5,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:36387,NCBIGene:2566,GABRG2,HGNC:4087,GABRG2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:364055,NCBIGene:167691,LCA5,HGNC:31923,LCA5,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:370959,NCBIGene:29925,GMPPB,HGNC:22932,GMPPB,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:370968,NCBIGene:29954,POMT2,HGNC:19743,POMT2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:37553,NCBIGene:3759,KCNJ2,HGNC:6263,KCNJ2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:377,NCBIGene:5727,PTCH1,HGNC:9585,PTCH1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:391411,NCBIGene:9829,DNAJC6,HGNC:15469,DNAJC6,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:397715,NCBIGene:9786,KIAA0586,HGNC:19960,KIAA0586,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,NCBIGene:2516,NR5A1,HGNC:7983,NR5A1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:399805,NCBIGene:125150,ZSWIM7,HGNC:26993,ZSWIM7,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,NCBIGene:8822,FGF17,HGNC:3673,FGF17,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,NCBIGene:2018,EMX2,HGNC:3341,EMX2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:432,NCBIGene:81848,SPRY4,HGNC:15533,SPRY4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:44,NCBIGene:8504,PEX3,HGNC:8858,PEX3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,NCBIGene:8867,SYNJ1,HGNC:11503,SYNJ1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,NCBIGene:6334,SCN8A,HGNC:10596,SCN8A,Disease-causing germline mutation(s) (gain of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,NCBIGene:79947,DHDDS,HGNC:20603,DHDDS,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:442835,NCBIGene:6323,SCN1A,HGNC:10585,SCN1A,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:44890,NCBIGene:6389,SDHA,HGNC:10680,SDHA,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:46532,NCBIGene:3047,HBG1,HGNC:4831,HBG1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:467166,NCBIGene:10381,TUBB3,HGNC:20772,TUBB3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:474,NCBIGene:9742,IFT140,HGNC:29077,IFT140,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,NCBIGene:54806,AHI1,HGNC:21575,AHI1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,NCBIGene:80776,B9D2,HGNC:28636,B9D2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:475,NCBIGene:56623,INPP5E,HGNC:21474,INPP5E,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:478,NCBIGene:55636,CHD7,HGNC:20626,CHD7,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:478,NCBIGene:1848,DUSP6,HGNC:3072,DUSP6,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:500,NCBIGene:673,BRAF,HGNC:1097,BRAF,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:51083,NCBIGene:3759,KCNJ2,HGNC:6263,KCNJ2,Disease-causing germline mutation(s) (gain of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:52430,NCBIGene:7415,VCP,HGNC:12666,VCP,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:526,NCBIGene:6337,SCNN1A,HGNC:10599,SCNN1A,Disease-causing germline mutation(s) (gain of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:550,NCBIGene:4540,MT-ND5,HGNC:7461,MT-ND5,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:551,NCBIGene:4540,MT-ND5,HGNC:7461,MT-ND5,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:564,NCBIGene:79848,CSPP1,HGNC:26193,CSPP1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:564,NCBIGene:79600,TCTN1,HGNC:26113,TCTN1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:564,NCBIGene:27077,B9D1,HGNC:24123,B9D1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:569,NCBIGene:6323,SCN1A,HGNC:10585,SCN1A,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:588,NCBIGene:55624,POMGNT1,HGNC:19139,POMGNT1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:60030,NCBIGene:7046,TGFBR1,HGNC:11772,TGFBR1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:60033,NCBIGene:6340,SCNN1G,HGNC:10602,SCNN1G,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:610,NCBIGene:1291,COL6A1,HGNC:2211,COL6A1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,NCBIGene:9742,IFT140,HGNC:29077,IFT140,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,NCBIGene:23418,CRB1,HGNC:2343,CRB1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:65,NCBIGene:7287,TULP1,HGNC:12423,TULP1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:708,NCBIGene:2296,FOXC1,HGNC:3800,FOXC1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75249,NCBIGene:7137,TNNI3,HGNC:11947,TNNI3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75377,NCBIGene:2978,GUCA1A,HGNC:4678,GUCA1A,Disease-causing germline mutation(s) (gain of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:75840,NCBIGene:1303,COL12A1,HGNC:2188,COL12A1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:772,NCBIGene:8504,PEX3,HGNC:8858,PEX3,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,NCBIGene:83856,FSD1L,HGNC:13753,FSD1L,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,NCBIGene:84100,ARL6,HGNC:13210,ARL6,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,NCBIGene:26160,IFT172,HGNC:30391,IFT172,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,NCBIGene:5961,PRPH2,HGNC:9942,PRPH2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,NCBIGene:123016,TTC8,HGNC:20087,TTC8,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:791,NCBIGene:92211,CDHR1,HGNC:14550,CDHR1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79277,NCBIGene:2623,GATA1,HGNC:4170,GATA1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79396,NCBIGene:3861,KRT14,HGNC:6416,KRT14,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79399,NCBIGene:3852,KRT5,HGNC:6442,KRT5,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79400,NCBIGene:3861,KRT14,HGNC:6416,KRT14,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:79403,NCBIGene:3691,ITGB4,HGNC:6158,ITGB4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,NCBIGene:2521,FUS,HGNC:4010,FUS,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:803,NCBIGene:203228,C9orf72,HGNC:28337,C9ORF72,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:808,NCBIGene:55835,CPAP,HGNC:17272,CPAP,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:827,NCBIGene:8842,PROM1,HGNC:9454,PROM1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:84,NCBIGene:57697,FANCM,HGNC:23168,FANCM,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:86909,NCBIGene:6334,SCN8A,HGNC:10596,SCN8A,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:871,NCBIGene:6324,SCN1B,HGNC:10586,SCN1B,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:897,NCBIGene:6663,SOX10,HGNC:11190,SOX10,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:89838,NCBIGene:3861,KRT14,HGNC:6416,KRT14,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90322,NCBIGene:1161,ERCC8,HGNC:3439,ERCC8,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90348,NCBIGene:10516,FBLN5,HGNC:3602,FBLN5,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90349,NCBIGene:30008,EFEMP2,HGNC:3219,EFEMP2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90647,NCBIGene:3784,KCNQ1,HGNC:6294,KCNQ1,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:90695,NCBIGene:5626,PROP1,HGNC:9455,PROP1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:912,NCBIGene:5190,PEX6,HGNC:8859,PEX6,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:912,NCBIGene:5189,PEX1,HGNC:8850,PEX1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:91387,NCBIGene:7048,TGFBR2,HGNC:11773,TGFBR2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93271,NCBIGene:89891,DYNC2I2,HGNC:28296,DYNC2I2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93396,NCBIGene:658,BMPR1B,HGNC:1077,BMPR1B,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93405,NCBIGene:6469,SHH,HGNC:10848,SHH,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93924,NCBIGene:28514,DLL1,HGNC:2908,DLL1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93924,NCBIGene:2736,GLI2,HGNC:4318,GLI2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93924,NCBIGene:7546,ZIC2,HGNC:12873,ZIC2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93925,NCBIGene:28514,DLL1,HGNC:2908,DLL1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93925,NCBIGene:8928,FOXH1,HGNC:3814,FOXH1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93925,NCBIGene:2736,GLI2,HGNC:4318,GLI2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93926,NCBIGene:2253,FGF8,HGNC:3686,FGF8,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93926,NCBIGene:84976,DISP1,HGNC:19711,DISP1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:93926,NCBIGene:6469,SHH,HGNC:10848,SHH,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:952,NCBIGene:2121,EVC,HGNC:3497,EVC,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95494,NCBIGene:89884,LHX4,HGNC:21734,LHX4,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:95496,NCBIGene:50937,CDON,HGNC:17104,CDON,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:97244,NCBIGene:58,ACTA1,HGNC:129,ACTA1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:97286,NCBIGene:6391,SDHC,HGNC:10682,SDHC,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98784,NCBIGene:57010,CABP4,HGNC:1386,CABP4,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:988,NCBIGene:6469,SHH,HGNC:10848,SHH,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98809,NCBIGene:3736,KCNA1,HGNC:6218,KCNA1,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98820,NCBIGene:9681,DEPDC5,HGNC:18423,DEPDC5,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:98881,NCBIGene:2244,FGB,HGNC:3662,FGB,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99000,NCBIGene:50939,IMPG2,HGNC:18362,IMPG2,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99798,NCBIGene:128178,EDARADD,HGNC:14341,EDARADD,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99798,NCBIGene:4040,LRP6,HGNC:6698,LRP6,Disease-causing germline mutation(s) (loss of function) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99803,NCBIGene:8929,PHOX2B,HGNC:9143,PHOX2B,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE
+ORPHA:99885,NCBIGene:2645,GCK,HGNC:4195,GCK,Disease-causing germline mutation(s) in,Assessed,DISEASE_ASSOCIATED_WITH_GENE

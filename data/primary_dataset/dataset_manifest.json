@@ -1,0 +1,11 @@
+{
+  "stage": "primary candidate dataset; not split",
+  "gene_namespace": "NCBIGene",
+  "target": "assessed disease-causing germline associations",
+  "cohort": "previously selected subset with >=2 causal genes and >=5 phenotypes",
+  "gene_phenotype_edges": "excluded because of disease-derived provenance",
+  "hierarchy": "excluded",
+  "disease_phenotypes": "curated disease-level context; not patient validation",
+  "source_target_sha256": "f0a5f4bb9c85f5eae5429a7be70db29e6714736939b7a7f198676023d4296e4d",
+  "negative_block_scope": "all mapped association types among retained diseases and genes"
+}

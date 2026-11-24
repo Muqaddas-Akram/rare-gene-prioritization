@@ -1,0 +1,15 @@
+\begin{table}[htbp]
+\centering
+\caption{Performance of graph neural network models for rare genetic disease gene prioritization. Values are mean $\pm$ standard deviation over five random seeds.}
+\label{tab:benchmark_results}
+\begin{tabular}{lccccccccc}
+\hline
+Model & Accuracy & Precision & Recall & F1 & AUROC & AUPRC & Hits@10 & Hits@20 & MRR \\
+\hline
+MLP & 0.443 $\pm$ 0.190 & 0.197 $\pm$ 0.110 & 0.599 $\pm$ 0.375 & 0.294 $\pm$ 0.166 & 0.485 $\pm$ 0.006 & 0.248 $\pm$ 0.004 & 0.005 $\pm$ 0.002 & 0.009 $\pm$ 0.004 & 0.003 $\pm$ 0.001 \\
+GraphConv & 0.777 $\pm$ 0.047 & 0.539 $\pm$ 0.064 & 0.849 $\pm$ 0.026 & 0.658 $\pm$ 0.053 & 0.879 $\pm$ 0.031 & 0.686 $\pm$ 0.064 & 0.065 $\pm$ 0.032 & 0.100 $\pm$ 0.043 & 0.034 $\pm$ 0.016 \\
+GraphSAGE & 0.854 $\pm$ 0.036 & 0.685 $\pm$ 0.088 & 0.812 $\pm$ 0.058 & 0.738 $\pm$ 0.042 & 0.927 $\pm$ 0.021 & 0.799 $\pm$ 0.046 & 0.170 $\pm$ 0.051 & 0.244 $\pm$ 0.067 & 0.111 $\pm$ 0.027 \\
+GAT & 0.720 $\pm$ 0.142 & 0.490 $\pm$ 0.121 & 0.817 $\pm$ 0.070 & 0.608 $\pm$ 0.121 & 0.813 $\pm$ 0.139 & 0.606 $\pm$ 0.158 & 0.071 $\pm$ 0.031 & 0.102 $\pm$ 0.033 & 0.054 $\pm$ 0.025 \\
+\hline
+\end{tabular}
+\end{table}

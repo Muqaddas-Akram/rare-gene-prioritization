@@ -1,0 +1,16 @@
+{
+  "split": "test",
+  "candidate_genes": 1230,
+  "score_construction": "Training disease-gene links only; cosine transfer also uses disease phenotypes.",
+  "ranking": "Filter other known causal pairs; average ties.",
+  "deterministic": true,
+  "threshold_metrics": "Not computed.",
+  "source_hashes": {
+    "train_edges.csv": "a195856f77afc2e31d9fb61618465402b05008a1cc80014bd51d17f0931ba6b1",
+    "test_edges.csv": "0bc3c0d0f3f3d524c2db08b09c7f767f63e24f2a37a5497d73695d7d7fdf2403",
+    "test_classification_samples.csv": "dda4ed17cea7ae1e25eb039188104a45ff86e5a1ee4db617b98b45a3456d5f9a",
+    "edges_disease_phenotype.csv": "05c3c1400914bb4d9ce57a7c7d39377a80b901f8d77913a42c6408b0789afa0f",
+    "known_causal_pairs_for_filtering.csv": "514e9a2424c98b9bf4ae07692bc97627b1580d5fa883c1d5a9db7f076f7a1184",
+    "negative_block_pairs.csv": "42fea4a822a9f7989c5edb342c2d648d9273049e4bfc588b3ff1f6a73a6e41d9"
+  }
+}

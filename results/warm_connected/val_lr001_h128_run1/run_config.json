@@ -1,0 +1,38 @@
+{
+  "epochs": 200,
+  "seeds": [
+    42
+  ],
+  "hidden": 128,
+  "lr": 0.001,
+  "run_name": "val_lr001_h128_run1",
+  "evaluate_test": true,
+  "models": "relation-specific 2-layer GNNs with learned skips; ID-MLP is not the old fixed-random-feature MLP",
+  "device": "cpu",
+  "torch": "2.14.1+cpu",
+  "pyg": "2.8.1",
+  "features": "learned ID embeddings, 32 dimensions; no independent biological features",
+  "decoder": "concatenation MLP; fixed 0.5 classification threshold",
+  "ranking": "all training-connected candidate genes; filter other known causal pairs; average ties",
+  "scope": "restricted warm-connected development benchmark; not clinical validation",
+  "weight_decay": 0.0005,
+  "patience": 15,
+  "gradient_clip": 5.0,
+  "source_hashes": {
+    "candidate_genes.csv": "4dbaffa20b72d81c235bc15bddf238d06a3aff13e85e78b00bbb2a3f569ed04d",
+    "edges_disease_phenotype.csv": "05c3c1400914bb4d9ce57a7c7d39377a80b901f8d77913a42c6408b0789afa0f",
+    "excluded_isolated_gene_targets.csv": "65ff188572408bd2c6b15dbd708d1d9a17440664fc06c3264e6795ae6230e97e",
+    "known_causal_pairs_for_filtering.csv": "514e9a2424c98b9bf4ae07692bc97627b1580d5fa883c1d5a9db7f076f7a1184",
+    "negative_block_pairs.csv": "42fea4a822a9f7989c5edb342c2d648d9273049e4bfc588b3ff1f6a73a6e41d9",
+    "nodes_disease.csv": "a94642029942081fa9f14f7b97e5caea32973f2f41c6709da028a25bf685cdf3",
+    "nodes_gene.csv": "ffad8226093370c7d3fadb8cb9ebec93485b199ed459e11e9fadb258a72c7e6a",
+    "nodes_phenotype.csv": "a6213dbbd6b7f1002b2778c891ab95931cf161214d3061f9f8416474d4daaa19",
+    "split_statistics.csv": "65963b8b5a8e6abc912b348e45c843eab60717ae3ad9b7be2af70985a12fef0e",
+    "test_classification_samples.csv": "dda4ed17cea7ae1e25eb039188104a45ff86e5a1ee4db617b98b45a3456d5f9a",
+    "test_edges.csv": "0bc3c0d0f3f3d524c2db08b09c7f767f63e24f2a37a5497d73695d7d7fdf2403",
+    "train_classification_samples.csv": "fa0e0afcd1cd6f801526b061355c20963b80c95b2036a20bcd8a1db8fe039c40",
+    "train_edges.csv": "a195856f77afc2e31d9fb61618465402b05008a1cc80014bd51d17f0931ba6b1",
+    "val_classification_samples.csv": "b881091db3a02b257cce1d590a1f73d0daa2125f9d7e76073adcf206f3c71e44",
+    "val_edges.csv": "f084d8296e28516c4d3866e4f758d521ac361fbd067a3e775f2167452e3d74d3"
+  }
+}

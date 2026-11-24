@@ -1,0 +1,5 @@
+setting,split,positive_queries,queries_with_gene_isolated_in_graph,isolated_gene_query_fraction,unique_isolated_target_genes
+dg_only,val,437,289,0.6613272311212814,279
+dg_only,test,545,366,0.671559633027523,342
+dg_plus_dp,val,437,289,0.6613272311212814,279
+dg_plus_dp,test,545,366,0.671559633027523,342

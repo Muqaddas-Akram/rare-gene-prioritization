@@ -1,0 +1,2 @@
+source_diseases,selected_diseases,genes,phenotypes,disease_gene_edges,disease_phenotype_edges,gene_phenotype_edges,genes_with_phenotype_edges,unmapped_orphanet_association_rows,raw_hpo_gene_annotation_rows,average_genes_per_selected_disease,average_phenotypes_per_selected_disease
+4245,695,2253,4631,3480,21605,153134,2253,40,333983,5.0071942446043165,31.086330935251798

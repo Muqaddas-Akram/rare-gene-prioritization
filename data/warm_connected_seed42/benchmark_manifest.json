@@ -1,0 +1,20 @@
+{
+  "scope": "known-disease link completion restricted to genes with >=1 training target association",
+  "split_seed": 42,
+  "negative_seed": 4201,
+  "negative_ratio": 3,
+  "candidate_selection": "training positive gene IDs only; no validation/test performance used",
+  "negative_selection": "only training-connected candidates, excluding all mapped known association types",
+  "excluded_targets": "preserved in excluded_isolated_gene_targets.csv; not evaluated by this baseline",
+  "message_passing_rule": "use train_edges.csv and reverse edges ONLY for disease-gene adjacency",
+  "known_causal_pairs_for_filtering": "evaluation filter only; NEVER use as message-passing edges",
+  "features": "not generated",
+  "gene_phenotype_edges": "excluded",
+  "hierarchy": "excluded",
+  "source_sha256": {
+    "data\\primary_splits_seed42\\train_edges.csv": "a195856f77afc2e31d9fb61618465402b05008a1cc80014bd51d17f0931ba6b1",
+    "data\\primary_splits_seed42\\val_edges.csv": "83b44c9ba0fb39a2714ed552612d9949690503a0356057901453d619ea53ee59",
+    "data\\primary_splits_seed42\\test_edges.csv": "bdc3c96a4b17c9ad38eb1d39918278f696fdb7fe322c9307a5eb8d71ee902740",
+    "data\\primary_dataset\\negative_block_pairs.csv": "d745bb21fb5b7235b41c398f3d5ac7df1442a081c5f1560f321f5995d11d8ddf"
+  }
+}

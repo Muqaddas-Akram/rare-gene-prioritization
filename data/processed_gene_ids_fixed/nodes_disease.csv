@@ -1,0 +1,696 @@
+disease_id,disease_name,disorder_type,disorder_group,gene_count,phenotype_count
+ORPHA:166100,Autosomal dominant otospondylomegaepiphyseal dysplasia,Malformation syndrome,Disorder,2,12
+ORPHA:461,Recessive X-linked ichthyosis,Disease,Disorder,2,12
+ORPHA:586,Cystic fibrosis,Disease,Disorder,19,35
+ORPHA:550,MELAS,Disease,Disorder,14,87
+ORPHA:269,Facioscapulohumeral dystrophy,Disease,Disorder,5,37
+ORPHA:480,Kearns-Sayre syndrome,Disease,Disorder,3,30
+ORPHA:551,MERRF,Disease,Disorder,10,11
+ORPHA:307,Juvenile myoclonic epilepsy,Disease,Disorder,8,10
+ORPHA:892,Von Hippel-Lindau disease,Disease,Disorder,2,41
+ORPHA:731,Autosomal recessive polycystic kidney disease,Disease,Disorder,2,51
+ORPHA:138,CHARGE syndrome,Malformation syndrome,Disorder,2,94
+ORPHA:803,Amyotrophic lateral sclerosis,Disease,Disorder,33,47
+ORPHA:399,Huntington disease,Disease,Disorder,2,52
+ORPHA:501,Lafora disease,Disease,Disorder,2,35
+ORPHA:567,22q11.2 deletion syndrome,Malformation syndrome,Disorder,9,131
+ORPHA:536,Systemic lupus erythematosus,Disease,Disorder,30,44
+ORPHA:166002,Multiple epiphyseal dysplasia due to collagen 9 anomaly,Disease,Disorder,3,24
+ORPHA:652,Multiple endocrine neoplasia type 1,Disease,Disorder,3,74
+ORPHA:827,Stargardt disease,Disease,Disorder,5,16
+ORPHA:904,Williams syndrome,Malformation syndrome,Disorder,18,185
+ORPHA:280,Wolf-Hirschhorn syndrome,Malformation syndrome,Disorder,6,95
+ORPHA:163596,Hemoglobin Bart's fetalis syndrome,Disease,Disorder,2,11
+ORPHA:104,Leber hereditary optic neuropathy,Disease,Disorder,12,20
+ORPHA:163634,Maffucci syndrome,Disease,Disorder,2,24
+ORPHA:163721,Rolandic epilepsy-speech dyspraxia syndrome,Disease,Disorder,2,18
+ORPHA:379,Chronic granulomatous disease,Disease,Disorder,6,22
+ORPHA:16,Blue cone monochromatism,Disease,Disorder,2,12
+ORPHA:181,X-linked hypohidrotic ectodermal dysplasia,Etiological subtype,Subtype of disorder,2,14
+ORPHA:163693,2p21 microdeletion syndrome,Disease,Disorder,4,19
+ORPHA:163690,Hypotonia-cystinuria syndrome,Disease,Disorder,2,14
+ORPHA:377,Gorlin syndrome,Malformation syndrome,Disorder,3,45
+ORPHA:648,Noonan syndrome,Malformation syndrome,Disorder,15,70
+ORPHA:281,Monosomy 5p syndrome,Malformation syndrome,Disorder,2,27
+ORPHA:524,Li-Fraumeni syndrome,Disease,Disorder,4,35
+ORPHA:895,Waardenburg syndrome type 2,Clinical subtype,Subtype of disorder,6,12
+ORPHA:857,Townes-Brocks syndrome,Malformation syndrome,Disorder,2,66
+ORPHA:681,Hypokalemic periodic paralysis,Disease,Disorder,3,20
+ORPHA:107,BOR syndrome,Malformation syndrome,Disorder,3,38
+ORPHA:774,Hereditary hemorrhagic telangiectasia,Disease,Disorder,4,36
+ORPHA:794,Saethre-Chotzen syndrome,Malformation syndrome,Disorder,3,61
+ORPHA:893,WAGR syndrome,Malformation syndrome,Disorder,3,18
+ORPHA:912,Zellweger syndrome,Disease,Disorder,13,54
+ORPHA:474,Jeune syndrome,Malformation syndrome,Disorder,11,24
+ORPHA:540,Familial hemophagocytic lymphohistiocytosis,Disease,Disorder,4,45
+ORPHA:568,"Microphthalmia, Lenz type",Malformation syndrome,Disorder,2,42
+ORPHA:564,Meckel syndrome,Malformation syndrome,Disorder,17,45
+ORPHA:289,Ellis-Van Creveld syndrome,Malformation syndrome,Disorder,6,51
+ORPHA:1646,Chromosome Y microdeletion syndrome,Malformation syndrome,Disorder,8,6
+ORPHA:313,Lamellar ichthyosis,Disease,Disorder,10,42
+ORPHA:171430,Severe congenital nemaline myopathy,Disease,Disorder,5,43
+ORPHA:171433,Intermediate nemaline myopathy,Disease,Disorder,4,28
+ORPHA:171436,Typical nemaline myopathy,Disease,Disorder,6,39
+ORPHA:171439,Childhood-onset nemaline myopathy,Disease,Disorder,7,45
+ORPHA:2771,Bruck syndrome,Malformation syndrome,Disorder,2,14
+ORPHA:861,Treacher-Collins syndrome,Malformation syndrome,Disorder,4,68
+ORPHA:308,Progressive myoclonic epilepsy type 1,Disease,Disorder,3,10
+ORPHA:199,Cornelia de Lange syndrome,Malformation syndrome,Disorder,7,100
+ORPHA:930,Idiopathic achalasia,Disease,Disorder,4,10
+ORPHA:1465,Coffin-Siris syndrome,Malformation syndrome,Disorder,11,65
+ORPHA:2609,Isolated complex I deficiency,Disease,Disorder,30,37
+ORPHA:626,Large/giant congenital melanocytic nevus,Disease,Disorder,6,21
+ORPHA:773,Adult Refsum disease,Disease,Disorder,2,38
+ORPHA:169160,T-B+NK+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta deficiency,Disease,Disorder,3,23
+ORPHA:610,Bethlem muscular dystrophy,Disease,Disorder,4,38
+ORPHA:169186,Autosomal recessive centronuclear myopathy,Disease,Disorder,4,36
+ORPHA:169189,Autosomal dominant centronuclear myopathy,Disease,Disorder,5,29
+ORPHA:44,Neonatal adrenoleukodystrophy,Disease,Disorder,13,29
+ORPHA:963,Acromegaly,Disease,Disorder,2,93
+ORPHA:36,Acrocallosal syndrome,Clinical subtype,Subtype of disorder,2,18
+ORPHA:1334,Chronic mucocutaneous candidiasis,Disease,Disorder,5,31
+ORPHA:1369,Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome,Disease,Disorder,3,10
+ORPHA:168588,Hyperandrogenism due to cortisone reductase deficiency,Malformation syndrome,Disorder,2,10
+ORPHA:124,Diamond-Blackfan anemia,Disease,Disorder,26,59
+ORPHA:1065,Aniridia-cerebellar ataxia-intellectual disability syndrome,Malformation syndrome,Disorder,2,11
+ORPHA:1146,Distal arthrogryposis type 1,Malformation syndrome,Disorder,6,9
+ORPHA:1143,Neurogenic arthrogryposis multiplex congenita,Disease,Disorder,3,33
+ORPHA:1147,Sheldon-Hall syndrome,Malformation syndrome,Disorder,5,20
+ORPHA:1775,Dyskeratosis congenita,Disease,Disorder,14,62
+ORPHA:45,Adenosine monophosphate deaminase deficiency,Disease,Disorder,2,5
+ORPHA:217,Isolated Dandy-Walker malformation,Morphological anomaly,Disorder,2,20
+ORPHA:1556,Cutis marmorata telangiectatica congenita,Malformation syndrome,Disorder,2,32
+ORPHA:417,Neonatal severe primary hyperparathyroidism,Disease,Disorder,2,10
+ORPHA:2248,Hypoplastic left heart syndrome,Morphological anomaly,Disorder,2,7
+ORPHA:2140,Congenital diaphragmatic hernia,Morphological anomaly,Disorder,3,8
+ORPHA:2116,Hartnup disease,Disease,Disorder,2,30
+ORPHA:2020,Congenital fiber-type disproportion myopathy,Disease,Disorder,8,59
+ORPHA:2053,Freeman-Sheldon syndrome,Malformation syndrome,Disorder,2,31
+ORPHA:1885,Isolated ectopia lentis,Malformation syndrome,Disorder,2,11
+ORPHA:635,Neuroblastoma,Disease,Disorder,6,34
+ORPHA:2612,Linear nevus sebaceus syndrome,Disease,Disorder,3,31
+ORPHA:705,Pendred syndrome,Malformation syndrome,Disorder,3,15
+ORPHA:2801,Juvenile Paget disease,Malformation syndrome,Disorder,2,17
+ORPHA:2744,Horizontal gaze palsy with progressive scoliosis,Disease,Disorder,2,16
+ORPHA:2301,Congenital short bowel syndrome,Morphological anomaly,Disorder,2,7
+ORPHA:2318,Joubert syndrome with oculorenal defect,Clinical subtype,Subtype of disorder,7,37
+ORPHA:502,Trichorhinophalangeal syndrome type 2,Malformation syndrome,Disorder,3,38
+ORPHA:477,KID syndrome,Disease,Disorder,2,60
+ORPHA:570,Moebius syndrome,Disease,Disorder,2,41
+ORPHA:287,Classical Ehlers-Danlos syndrome,Disease,Disorder,3,68
+ORPHA:1020,Early-onset autosomal dominant Alzheimer disease,Disease,Disorder,6,26
+ORPHA:54,X-linked recessive ocular albinism,Disease,Disorder,2,14
+ORPHA:154,Familial isolated dilated cardiomyopathy,Disease,Disorder,55,13
+ORPHA:84,Fanconi anemia,Malformation syndrome,Disorder,23,106
+ORPHA:821,Sotos syndrome,Disease,Disorder,2,107
+ORPHA:3204,Stormorken-Sjaastad-Langslet syndrome,Disease,Disorder,2,12
+ORPHA:3447,Weaver syndrome,Malformation syndrome,Disorder,3,42
+ORPHA:715,Glycogen storage disease due to muscle phosphorylase kinase deficiency,Disease,Disorder,2,16
+ORPHA:117,Behçet disease,Disease,Disorder,15,85
+ORPHA:177901,Prader-Willi syndrome due to paternal deletion of 15q11q13 type 1,Etiological subtype,Subtype of disorder,4,71
+ORPHA:423,Malignant hyperthermia of anesthesia,Disease,Disorder,2,23
+ORPHA:177904,Prader-Willi syndrome due to paternal deletion of 15q11q13 type 2,Etiological subtype,Subtype of disorder,4,71
+ORPHA:177910,Prader-Willi syndrome due to imprinting mutation,Etiological subtype,Subtype of disorder,3,18
+ORPHA:388,Hirschsprung disease,Disease,Disorder,14,19
+ORPHA:244,Primary ciliary dyskinesia,Disease,Disorder,53,46
+ORPHA:805,Tuberous sclerosis complex,Disease,Disorder,3,62
+ORPHA:791,Retinitis pigmentosa,Disease,Disorder,97,31
+ORPHA:2131,Alternating hemiplegia of childhood,Disease,Disorder,8,63
+ORPHA:2882,Sitosterolemia,Disease,Disorder,2,13
+ORPHA:900,Granulomatosis with polyangiitis,Disease,Disorder,5,80
+ORPHA:171695,Parkinsonian-pyramidal syndrome,Disease,Disorder,2,25
+ORPHA:171881,Cap myopathy,Disease,Disorder,3,30
+ORPHA:2512,Autosomal recessive primary microcephaly,Etiological subtype,Subtype of disorder,29,17
+ORPHA:171876,Generalized pseudohypoaldosteronism type 1,Clinical subtype,Subtype of disorder,3,22
+ORPHA:797,Sarcoidosis,Disease,Disorder,2,77
+ORPHA:171851,MEDNIK syndrome,Disease,Disorder,2,8
+ORPHA:3303,Tetralogy of Fallot,Malformation syndrome,Disorder,13,12
+ORPHA:730,Autosomal dominant polycystic kidney disease,Disease,Disorder,9,26
+ORPHA:486,Autosomal dominant severe congenital neutropenia,Disease,Disorder,5,31
+ORPHA:3287,Takayasu arteritis,Disease,Disorder,3,54
+ORPHA:3463,Wolfram syndrome,Disease,Disorder,2,39
+ORPHA:3452,Whipple disease,Disease,Disorder,2,47
+ORPHA:274,Bernard-Soulier syndrome,Disease,Disorder,3,21
+ORPHA:199302,Isolated cleft lip,Morphological anomaly,Disorder,5,18
+ORPHA:199306,Cleft lip/palate,Morphological anomaly,Disorder,13,21
+ORPHA:189427,Cushing syndrome due to bilateral macronodular adrenocortical disease,Disease,Disorder,3,39
+ORPHA:171,Primary sclerosing cholangitis,Disease,Disorder,4,51
+ORPHA:3006,Pyridoxine-dependent-developmental and epileptic encephalopathy,Disease,Disorder,2,35
+ORPHA:3111,Rotor syndrome,Disease,Disorder,2,8
+ORPHA:2382,Lennox-Gastaut syndrome,Disease,Disorder,7,25
+ORPHA:1934,Early infantile developmental and epileptic encephalopathy,Clinical syndrome,Disorder,21,63
+ORPHA:1942,Epilepsy with myoclonic-atonic seizures,Disease,Disorder,7,43
+ORPHA:186,Primary biliary cholangitis,Disease,Disorder,8,41
+ORPHA:397,Giant cell arteritis,Disease,Disorder,4,73
+ORPHA:131,Budd-Chiari syndrome,Disease,Disorder,3,23
+ORPHA:654,Nephroblastoma,Disease,Disorder,10,27
+ORPHA:183675,Recurrent infections associated with rare immunoglobulin isotypes deficiency,Disease,Disorder,2,47
+ORPHA:897,Waardenburg-Shah syndrome,Disease,Disorder,4,23
+ORPHA:808,Seckel syndrome,Malformation syndrome,Disorder,15,26
+ORPHA:3027,Caudal regression syndrome,Malformation syndrome,Disorder,2,28
+ORPHA:676,Autosomal dominant hereditary chronic pancreatitis,Disease,Disorder,6,9
+ORPHA:2828,Young-onset Parkinson disease,Disease,Disorder,11,34
+ORPHA:638,Neurofibromatosis-Noonan syndrome,Malformation syndrome,Disorder,2,18
+ORPHA:526,Liddle syndrome,Disease,Disorder,3,9
+ORPHA:373,Simpson-Golabi-Behmel syndrome,Malformation syndrome,Disorder,2,78
+ORPHA:403,Familial hyperaldosteronism type I,Disease,Disorder,2,19
+ORPHA:2268,ICF syndrome,Malformation syndrome,Disorder,5,23
+ORPHA:475,Isolated Joubert syndrome,Clinical subtype,Subtype of disorder,30,37
+ORPHA:243,"46,XX gonadal dysgenesis",Malformation syndrome,Disorder,12,24
+ORPHA:48,Congenital bilateral absence of vas deferens,Morphological anomaly,Disorder,2,7
+ORPHA:1949,Self-limited neonatal epilepsy,Disease,Disorder,2,17
+ORPHA:1344,Isolated atrial standstill,Disease,Disorder,2,32
+ORPHA:776,Lujan-Fryns syndrome,Malformation syndrome,Disorder,3,34
+ORPHA:888,Van der Woude syndrome,Malformation syndrome,Disorder,2,8
+ORPHA:871,Hereditary progressive cardiac conduction defect,Disease,Disorder,4,8
+ORPHA:1620,Distal deletion 3p syndrome,Malformation syndrome,Disorder,2,34
+ORPHA:1627,Deletion 5q35 syndrome,Malformation syndrome,Disorder,2,14
+ORPHA:500,Noonan syndrome with multiple lentigines,Malformation syndrome,Disorder,3,50
+ORPHA:233,Duane retraction syndrome,Malformation syndrome,Disorder,3,62
+ORPHA:2495,Meningioma,Disease,Disorder,11,74
+ORPHA:569,Familial or sporadic hemiplegic migraine,Disease,Disorder,4,51
+ORPHA:2311,Autosomal recessive spondylocostal dysostosis,Malformation syndrome,Disorder,6,38
+ORPHA:358,Gitelman syndrome,Disease,Disorder,2,67
+ORPHA:2052,Fraser syndrome,Malformation syndrome,Disorder,3,65
+ORPHA:1358,Carey-Fineman-Ziter syndrome,Malformation syndrome,Disorder,2,36
+ORPHA:7,3C syndrome,Malformation syndrome,Disorder,4,63
+ORPHA:869,Triple A syndrome,Disease,Disorder,3,35
+ORPHA:950,Acrodysostosis,Malformation syndrome,Disorder,2,53
+ORPHA:952,"Acrofacial dysostosis, Weyers type",Malformation syndrome,Disorder,3,19
+ORPHA:1946,Amelocerebrohypohidrotic syndrome,Malformation syndrome,Disorder,2,14
+ORPHA:2598,Mitochondrial myopathy and sideroblastic anemia,Disease,Disorder,2,19
+ORPHA:1052,Mosaic variegated aneuploidy syndrome,Malformation syndrome,Disorder,5,64
+ORPHA:1040,Metaphyseal anadysplasia,Disease,Disorder,2,9
+ORPHA:990,Agnathia-holoprosencephaly-situs inversus syndrome,Malformation syndrome,Disorder,2,19
+ORPHA:994,Fetal akinesia deformation sequence,Malformation syndrome,Disorder,10,24
+ORPHA:51,Aicardi-Goutières syndrome,Disease,Disorder,9,72
+ORPHA:988,Tibial hemimelia-polysyndactyly-triphalangeal thumb syndrome,Malformation syndrome,Disorder,2,6
+ORPHA:970,Hereditary sensory and autonomic neuropathy type 2,Disease,Disorder,4,15
+ORPHA:969,Acromicric dysplasia,Malformation syndrome,Disorder,2,22
+ORPHA:974,Adams-Oliver syndrome,Malformation syndrome,Disorder,6,46
+ORPHA:139411,Carney triad,Disease,Disorder,3,21
+ORPHA:1275,Brachydactyly-elbow wrist dysplasia syndrome,Malformation syndrome,Disorder,2,11
+ORPHA:1173,Cerebellar ataxia-hypogonadism syndrome,Disease,Disorder,2,20
+ORPHA:137888,Auriculocondylar syndrome,Malformation syndrome,Disorder,3,33
+ORPHA:1200,Burn-McKeown syndrome,Malformation syndrome,Disorder,2,11
+ORPHA:1454,Joubert syndrome with hepatic defect,Clinical subtype,Subtype of disorder,4,48
+ORPHA:155878,Submucosal cleft palate,Morphological anomaly,Disorder,2,6
+ORPHA:1466,COFS syndrome,Clinical subtype,Subtype of disorder,4,32
+ORPHA:141291,Cleft lip and alveolus,Morphological anomaly,Disorder,4,12
+ORPHA:1410,Uncombable hair syndrome,Disease,Disorder,2,6
+ORPHA:1416,Familial calcium pyrophosphate deposition,Disease,Disorder,2,17
+ORPHA:1425,Desbuquois syndrome,Malformation syndrome,Disorder,3,29
+ORPHA:1387,Cataract-intellectual disability-hypogonadism syndrome,Malformation syndrome,Disorder,2,30
+ORPHA:157794,Hereditary mixed polyposis syndrome,Disease,Disorder,2,18
+ORPHA:1377,Cataract-microcornea syndrome,Malformation syndrome,Disorder,8,7
+ORPHA:157215,Hereditary hypophosphatemic rickets with hypercalciuria,Disease,Disorder,2,21
+ORPHA:1340,Cardiofaciocutaneous syndrome,Malformation syndrome,Disorder,4,79
+ORPHA:1766,Dysequilibrium syndrome,Disease,Disorder,5,14
+ORPHA:1782,Dysosteosclerosis,Malformation syndrome,Disorder,3,22
+ORPHA:1617,Developmental delay-language impairment-dopa responsive dystonia-parkinsonism syndrome due to 2q24 microdeletion,Etiological subtype,Subtype of disorder,2,28
+ORPHA:1606,1p36 deletion syndrome,Malformation syndrome,Disorder,13,99
+ORPHA:139536,Distal hereditary motor neuropathy type 5,Disease,Disorder,3,16
+ORPHA:1662,Restrictive dermopathy,Disease,Disorder,2,58
+ORPHA:1545,Crisponi syndrome,Malformation syndrome,Disorder,2,22
+ORPHA:140957,Autosomal dominant macrothrombocytopenia,Disease,Disorder,10,9
+ORPHA:140927,Self-limited neonatal/infantile epilepsy,Disease,Disorder,2,15
+ORPHA:1571,Knobloch syndrome,Malformation syndrome,Disorder,2,26
+ORPHA:1507,Autosomal recessive Robinow syndrome,Clinical subtype,Subtype of disorder,2,79
+ORPHA:1517,Cantú syndrome,Malformation syndrome,Disorder,2,38
+ORPHA:1513,Craniodiaphyseal dysplasia,Malformation syndrome,Disorder,2,13
+ORPHA:1515,Cranioectodermal dysplasia,Malformation syndrome,Disorder,5,30
+ORPHA:1522,Craniometaphyseal dysplasia,Malformation syndrome,Disorder,2,13
+ORPHA:1872,Cone rod dystrophy,Disease,Disorder,33,15
+ORPHA:1871,Progressive cone dystrophy,Disease,Disorder,4,5
+ORPHA:2128,Isolated hemihyperplasia,Morphological anomaly,Disorder,3,12
+ORPHA:2136,Hennekam syndrome,Malformation syndrome,Disorder,3,51
+ORPHA:2138,"46,XX ovotesticular difference of sex development",Malformation syndrome,Disorder,3,14
+ORPHA:2098,"Acromesomelic dysplasia, Grebe type",Malformation syndrome,Disorder,2,17
+ORPHA:2065,Galloway-Mowat syndrome,Malformation syndrome,Disorder,10,28
+ORPHA:2078,Geroderma osteodysplastica,Malformation syndrome,Disorder,2,30
+ORPHA:1826,Frontometaphyseal dysplasia,Disease,Disorder,2,62
+ORPHA:2050,Cole-Carpenter syndrome,Malformation syndrome,Disorder,3,26
+ORPHA:2021,Fibrochondrogenesis,Disease,Disorder,2,29
+ORPHA:158687,Lethal acantholytic erosive disorder,Disease,Disorder,2,27
+ORPHA:158684,Epidermolysis bullosa simplex with pyloric atresia,Disease,Disorder,2,29
+ORPHA:1980,Bilateral striopallidodentate calcinosis,Disease,Disorder,9,31
+ORPHA:1997,Blepharo-cheilo-odontic syndrome,Malformation syndrome,Disorder,2,14
+ORPHA:2363,Lacrimoauriculodentodigital syndrome,Malformation syndrome,Disorder,3,63
+ORPHA:2340,Keratosis follicularis spinulosa decalvans,Disease,Disorder,3,17
+ORPHA:247604,Juvenile primary lateral sclerosis,Disease,Disorder,2,15
+ORPHA:2322,Kabuki syndrome,Malformation syndrome,Disorder,2,92
+ORPHA:2396,Encephalocraniocutaneous lipomatosis,Disease,Disorder,2,55
+ORPHA:2440,Isolated split hand-split foot malformation,Malformation syndrome,Disorder,8,8
+ORPHA:244242,HELLP syndrome,Disease,Disorder,4,29
+ORPHA:296,Ollier disease,Disease,Disorder,3,26
+ORPHA:247353,Generalized pustular psoriasis,Disease,Disorder,2,27
+ORPHA:247262,Hyperphosphatasia-intellectual disability syndrome,Disease,Disorder,7,62
+ORPHA:2470,Matthew-Wood syndrome,Malformation syndrome,Disorder,2,20
+ORPHA:2462,Shprintzen-Goldberg syndrome,Malformation syndrome,Disorder,2,53
+ORPHA:2189,Hydrolethalus,Malformation syndrome,Disorder,2,28
+ORPHA:312,Autosomal dominant epidermolytic ichthyosis,Disease,Disorder,2,11
+ORPHA:2199,Epidermolytic palmoplantar keratoderma,Disease,Disorder,3,15
+ORPHA:2241,Megacystis-microcolon-intestinal hypoperistalsis syndrome,Malformation syndrome,Disorder,4,16
+ORPHA:250984,Autosomal recessive Stickler syndrome,Clinical subtype,Subtype of disorder,4,23
+ORPHA:250923,Isolated aniridia,Morphological anomaly,Disorder,3,27
+ORPHA:251380,Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome,Disease,Disorder,5,13
+ORPHA:251510,"46,XY partial gonadal dysgenesis",Malformation syndrome,Disorder,11,43
+ORPHA:2309,Pachyonychia congenita,Disease,Disorder,4,27
+ORPHA:251393,Localized junctional epidermolysis bullosa,Disease,Disorder,2,19
+ORPHA:2290,Microvillus inclusion disease,Disease,Disorder,2,11
+ORPHA:254864,Mitochondrial myopathy with reversible cytochrome C oxidase deficiency,Disease,Disorder,2,24
+ORPHA:2697,Arthrogryposis-renal dysfunction-cholestasis syndrome,Malformation syndrome,Disorder,2,31
+ORPHA:254913,Isolated ATP synthase deficiency,Disease,Disorder,8,40
+ORPHA:2701,Noonan syndrome-like disorder with loose anagen hair,Malformation syndrome,Disorder,2,29
+ORPHA:254886,Autosomal recessive progressive external ophthalmoplegia,Disease,Disorder,4,42
+ORPHA:254892,Autosomal dominant progressive external ophthalmoplegia,Disease,Disorder,5,81
+ORPHA:2704,Urofacial syndrome,Malformation syndrome,Disorder,2,11
+ORPHA:255210,Mitochondrial DNA-associated Leigh syndrome,Disease,Disorder,11,53
+ORPHA:2754,Orofaciodigital syndrome type 6,Clinical subtype,Subtype of disorder,10,52
+ORPHA:661,Congenital central hypoventilation syndrome,Disease,Disorder,6,10
+ORPHA:2770,Nasu-Hakola disease,Malformation syndrome,Disorder,2,28
+ORPHA:254525,Temple syndrome due to paternal 14q32.2 microdeletion,Etiological subtype,Subtype of disorder,3,22
+ORPHA:2796,Pachydermoperiostosis,Malformation syndrome,Disorder,2,49
+ORPHA:254528,Kagami-Ogata syndrome due to maternal 14q32.2 microdeletion,Etiological subtype,Subtype of disorder,3,38
+ORPHA:2780,Osteopathia striata-cranial sclerosis syndrome,Malformation syndrome,Disorder,2,44
+ORPHA:667,Autosomal recessive malignant osteopetrosis,Malformation syndrome,Disorder,5,43
+ORPHA:254534,Kagami-Ogata syndrome due to maternal 14q32.2 hypermethylation,Etiological subtype,Subtype of disorder,3,19
+ORPHA:254531,Temple syndrome due to paternal 14q32.2 hypomethylation,Etiological subtype,Subtype of disorder,3,28
+ORPHA:2505,Multiple benign circumferential skin creases on limbs,Disease,Disorder,2,30
+ORPHA:2510,Micro syndrome,Malformation syndrome,Disorder,4,42
+ORPHA:2514,Autosomal dominant primary microcephaly,Etiological subtype,Subtype of disorder,2,6
+ORPHA:2518,Autosomal recessive chorioretinopathy-microcephaly syndrome,Malformation syndrome,Disorder,3,22
+ORPHA:2524,Pontocerebellar hypoplasia type 2,Clinical subtype,Subtype of disorder,5,39
+ORPHA:2554,Ear-patella-short stature syndrome,Malformation syndrome,Disorder,7,49
+ORPHA:2556,Microphthalmia with linear skin defects syndrome,Malformation syndrome,Disorder,3,77
+ORPHA:2573,Moyamoya disease,Disease,Disorder,4,5
+ORPHA:261183,15q11.2 microdeletion syndrome,Malformation syndrome,Disorder,3,31
+ORPHA:2578,Mayer-Rokitansky-Küster-Hauser syndrome type 2,Clinical subtype,Subtype of disorder,2,12
+ORPHA:1359,Carney complex,Disease,Disorder,2,64
+ORPHA:2593,Tubular aggregate myopathy,Disease,Disorder,3,9
+ORPHA:261229,14q11.2 microduplication syndrome,Malformation syndrome,Disorder,2,24
+ORPHA:261265,17q12 microdeletion syndrome,Malformation syndrome,Disorder,2,21
+ORPHA:2616,3M syndrome,Malformation syndrome,Disorder,3,42
+ORPHA:261349,2p15p16.1 microdeletion syndrome,Malformation syndrome,Disorder,3,77
+ORPHA:2623,Geleophysic dysplasia,Malformation syndrome,Disorder,3,47
+ORPHA:261330,Distal 22q11.2 microdeletion syndrome,Malformation syndrome,Disorder,3,60
+ORPHA:2639,Fibular aplasia-complex brachydactyly syndrome,Malformation syndrome,Disorder,2,15
+ORPHA:261652,Kleefstra syndrome due to a point mutation,Etiological subtype,Subtype of disorder,2,50
+ORPHA:263534,Acral peeling skin syndrome,Disease,Disorder,2,12
+ORPHA:2990,Autosomal recessive multiple pterygium syndrome,Malformation syndrome,Disorder,2,65
+ORPHA:3144,Schneckenbecken dysplasia,Malformation syndrome,Disorder,2,26
+ORPHA:3115,Roussy-Lévy syndrome,Disease,Disorder,2,27
+ORPHA:3107,Autosomal dominant Robinow syndrome,Clinical subtype,Subtype of disorder,4,80
+ORPHA:2884,Piebaldism,Disease,Disorder,2,19
+ORPHA:708,Peters anomaly,Morphological anomaly,Disorder,5,9
+ORPHA:2850,Alopecia-intellectual disability syndrome,Disease,Disorder,3,26
+ORPHA:1848,"Renal agenesis, bilateral",Clinical subtype,Subtype of disorder,6,18
+ORPHA:740,Hutchinson-Gilford progeria syndrome,Disease,Disorder,2,93
+ORPHA:2924,Isolated polycystic liver disease,Malformation syndrome,Disorder,4,22
+ORPHA:264580,Glycogen storage disease due to liver phosphorylase kinase deficiency,Disease,Disorder,2,51
+ORPHA:264675,Hereditary pulmonary alveolar proteinosis,Disease,Disorder,2,15
+ORPHA:3366,Non-syndromic metopic craniosynostosis,Morphological anomaly,Disorder,2,12
+ORPHA:275872,Frontotemporal dementia with motor neuron disease,Disease,Disorder,7,35
+ORPHA:275864,Behavioral variant of frontotemporal dementia,Disease,Disorder,9,40
+ORPHA:3322,Hoyeraal-Hreidarsson syndrome,Disease,Disorder,7,28
+ORPHA:275555,Preeclampsia,Disease,Disorder,3,27
+ORPHA:3472,Yunis-Varon syndrome,Malformation syndrome,Disorder,2,90
+ORPHA:3473,Zimmermann-Laband syndrome,Malformation syndrome,Disorder,3,43
+ORPHA:3459,Wilson-Turner syndrome,Malformation syndrome,Disorder,2,25
+ORPHA:2995,Baraitser-Winter cerebrofrontofacial syndrome,Malformation syndrome,Disorder,2,61
+ORPHA:3243,Sweet syndrome,Disease,Disorder,2,39
+ORPHA:3416,Hyperostosis corticalis generalisata,Malformation syndrome,Disorder,2,8
+ORPHA:3449,Weill-Marchesani syndrome,Malformation syndrome,Disorder,4,21
+ORPHA:3197,Hereditary hyperekplexia,Disease,Disorder,5,21
+ORPHA:3220,Deafness-enamel hypoplasia-nail defects syndrome,Malformation syndrome,Disorder,2,33
+ORPHA:3152,Sclerosteosis,Malformation syndrome,Disorder,2,14
+ORPHA:3156,Senior-Loken syndrome,Disease,Disorder,10,16
+ORPHA:3157,Septo-optic dysplasia spectrum,Malformation syndrome,Disorder,7,32
+ORPHA:280200,Microform holoprosencephaly,Malformation syndrome,Disorder,16,34
+ORPHA:280195,Septopreoptic holoprosencephaly,Clinical subtype,Subtype of disorder,15,24
+ORPHA:3258,Cenani-Lenz syndrome,Malformation syndrome,Disorder,2,41
+ORPHA:276621,Sporadic pheochromocytoma/secreting paraganglioma,Disease,Disorder,6,46
+ORPHA:3275,Spondylocarpotarsal synostosis,Malformation syndrome,Disorder,2,17
+ORPHA:425,Apolipoprotein A-I deficiency,Disease,Disorder,2,9
+ORPHA:3301,Tetraamelia-multiple malformations syndrome,Malformation syndrome,Disorder,3,35
+ORPHA:276399,Familial multinodular goiter,Disease,Disorder,2,13
+ORPHA:3237,Multiple synostoses syndrome,Malformation syndrome,Disorder,4,10
+ORPHA:3250,Proximal symphalangism,Malformation syndrome,Disorder,2,15
+ORPHA:746,Mitochondrial trifunctional protein deficiency,Disease,Disorder,2,46
+ORPHA:621,Autosomal recessive methemoglobinemia,Disease,Disorder,2,26
+ORPHA:572,Immunodeficiency by defective expression of MHC class II,Disease,Disorder,4,38
+ORPHA:1930,Herpes simplex virus encephalitis,Disease,Disorder,5,30
+ORPHA:206436,Infantile Krabbe disease,Clinical subtype,Subtype of disorder,2,70
+ORPHA:1945,Self-limited epilepsy with centrotemporal spikes,Disease,Disorder,3,21
+ORPHA:6,3-methylcrotonyl-CoA carboxylase deficiency,Disease,Disorder,2,10
+ORPHA:2680,Hypomyelination neuropathy-arthrogryposis syndrome,Malformation syndrome,Disorder,3,5
+ORPHA:478,Kallmann syndrome,Clinical subtype,Subtype of disorder,22,44
+ORPHA:822,Hereditary spherocytosis,Disease,Disorder,5,27
+ORPHA:910,Xeroderma pigmentosum,Disease,Disorder,7,59
+ORPHA:65,Leber congenital amaurosis,Disease,Disorder,26,25
+ORPHA:321,Multiple osteochondromas,Disease,Disorder,2,56
+ORPHA:144,Lynch syndrome,Disease,Disorder,9,60
+ORPHA:110,Bardet-Biedl syndrome,Disease,Disorder,26,95
+ORPHA:3095,Atypical Rett syndrome,Disease,Disorder,5,53
+ORPHA:1114,Aplasia cutis congenita,Malformation syndrome,Disorder,5,13
+ORPHA:210110,Intermediate osteopetrosis,Malformation syndrome,Disorder,3,21
+ORPHA:2254,Pontocerebellar hypoplasia type 1,Clinical subtype,Subtype of disorder,6,29
+ORPHA:210548,Macrocephaly-intellectual disability-autism syndrome,Disease,Disorder,2,24
+ORPHA:656,Hereditary steroid-resistant nephrotic syndrome,Disease,Disorder,34,17
+ORPHA:2591,Infantile myofibromatosis,Disease,Disorder,2,28
+ORPHA:35,Propionic acidemia,Disease,Disorder,2,11
+ORPHA:663,Mitochondrial DNA-related progressive external ophthalmoplegia,Disease,Disorder,4,16
+ORPHA:618,Familial melanoma,Disease,Disorder,11,11
+ORPHA:3261,Autoimmune lymphoproliferative syndrome,Disease,Disorder,3,72
+ORPHA:2953,Musculocontractural Ehlers-Danlos syndrome,Disease,Disorder,2,71
+ORPHA:782,Axenfeld-Rieger syndrome,Malformation syndrome,Disorder,2,21
+ORPHA:361,Familial glucocorticoid deficiency,Disease,Disorder,5,35
+ORPHA:2584,Classic mycosis fungoides,Disease,Disorder,3,29
+ORPHA:3162,Sézary syndrome,Disease,Disorder,3,29
+ORPHA:217385,17p13.3 microduplication syndrome,Malformation syndrome,Disorder,2,19
+ORPHA:331,Congenital factor XIII deficiency,Disease,Disorder,2,25
+ORPHA:220402,Limited cutaneous systemic sclerosis,Clinical subtype,Subtype of disorder,6,15
+ORPHA:220386,Semilobar holoprosencephaly,Clinical subtype,Subtype of disorder,18,72
+ORPHA:220393,Diffuse cutaneous systemic sclerosis,Clinical subtype,Subtype of disorder,5,26
+ORPHA:220295,Xeroderma pigmentosum-Cockayne syndrome complex,Disease,Disorder,4,29
+ORPHA:2880,Phosphoenolpyruvate carboxykinase deficiency,Disease,Disorder,2,22
+ORPHA:220497,Joubert syndrome with renal defect,Clinical subtype,Subtype of disorder,3,36
+ORPHA:220493,Joubert syndrome with ocular anomaly,Clinical subtype,Subtype of disorder,5,40
+ORPHA:145,Hereditary breast and/or ovarian cancer syndrome,Disease,Disorder,15,7
+ORPHA:2965,Prolactinoma,Disease,Disorder,3,50
+ORPHA:538,Lymphangioleiomyomatosis,Disease,Disorder,2,36
+ORPHA:3208,Isolated succinate-CoQ reductase deficiency,Disease,Disorder,4,50
+ORPHA:221061,Familial cerebral cavernous malformation,Malformation syndrome,Disorder,4,25
+ORPHA:849,Glanzmann thrombasthenia,Disease,Disorder,2,14
+ORPHA:225154,Familial infantile bilateral striatal necrosis,Disease,Disorder,4,36
+ORPHA:221139,Combined immunodeficiency with facio-oculo-skeletal anomalies,Disease,Disorder,2,69
+ORPHA:389,Langerhans cell histiocytosis,Disease,Disorder,2,27
+ORPHA:668,Osteosarcoma,Disease,Disorder,3,12
+ORPHA:2126,Solitary fibrous tumor,Disease,Disorder,2,29
+ORPHA:758,Pseudoxanthoma elasticum,Disease,Disorder,2,41
+ORPHA:1501,Adrenocortical carcinoma,Disease,Disorder,6,29
+ORPHA:226307,Hypothyroidism due to deficient transcription factors involved in pituitary development or function,Disease,Disorder,5,49
+ORPHA:2478,Megalencephalic leukoencephalopathy with subcortical cysts,Disease,Disorder,4,18
+ORPHA:3337,Primary Fanconi renotubular syndrome,Disease,Disorder,4,29
+ORPHA:223,Arginine vasopressin resistance,Disease,Disorder,2,21
+ORPHA:521,Chronic myeloid leukemia,Disease,Disorder,3,11
+ORPHA:2345,Isolated Klippel-Feil syndrome,Malformation syndrome,Disorder,3,32
+ORPHA:1333,Familial pancreatic carcinoma,Disease,Disorder,9,24
+ORPHA:3202,Dehydrated hereditary stomatocytosis,Disease,Disorder,3,27
+ORPHA:1018,X-linked Alport syndrome-diffuse leiomyomatosis,Clinical subtype,Subtype of disorder,2,39
+ORPHA:306,Self-limited infantile epilepsy,Disease,Disorder,5,32
+ORPHA:288,Hereditary elliptocytosis,Disease,Disorder,4,23
+ORPHA:256,Early-onset generalized limb-onset dystonia,Disease,Disorder,3,5
+ORPHA:2073,Narcolepsy type 1,Disease,Disorder,8,30
+ORPHA:231183,Usher syndrome type 3,Clinical subtype,Subtype of disorder,5,12
+ORPHA:231178,Usher syndrome type 2,Clinical subtype,Subtype of disorder,5,21
+ORPHA:231160,Familial cerebral saccular aneurysm,Disease,Disorder,5,15
+ORPHA:231169,Usher syndrome type 1,Clinical subtype,Subtype of disorder,6,16
+ORPHA:231140,Silver-Russell syndrome due to an imprinting defect of 11p15,Etiological subtype,Subtype of disorder,2,28
+ORPHA:231144,Silver-Russell syndrome due to 11p15 microduplication,Etiological subtype,Subtype of disorder,2,19
+ORPHA:3318,Essential thrombocythemia,Disease,Disorder,6,30
+ORPHA:1901,Dermatosparaxis Ehlers-Danlos syndrome,Disease,Disorder,2,50
+ORPHA:1899,Arthrochalasia Ehlers-Danlos syndrome,Disease,Disorder,2,46
+ORPHA:531,Miller-Dieker syndrome,Malformation syndrome,Disorder,3,18
+ORPHA:238722,Familial congenital mirror movements,Disease,Disorder,4,14
+ORPHA:238455,Infantile dystonia-parkinsonism,Disease,Disorder,2,20
+ORPHA:331206,T-B-NK+  severe combined immunodeficiency due to complete RAG1/2 deficiency,Disease,Disorder,2,29
+ORPHA:329971,Generalized juvenile polyposis/juvenile polyposis coli,Clinical subtype,Subtype of disorder,3,11
+ORPHA:329967,Intermittent hydrarthrosis,Disease,Disorder,2,5
+ORPHA:329336,Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy,Disease,Disorder,2,32
+ORPHA:324604,Classic multiminicore myopathy,Clinical subtype,Subtype of disorder,3,28
+ORPHA:320406,Spastic paraplegia-optic atrophy-neuropathy syndrome,Disease,Disorder,2,20
+ORPHA:319487,Familial papillary or follicular thyroid carcinoma,Disease,Disorder,3,15
+ORPHA:314679,Cerebrofacioarticular syndrome,Malformation syndrome,Disorder,2,44
+ORPHA:314647,Non-progressive cerebellar ataxia with intellectual disability,Disease,Disorder,2,37
+ORPHA:370959,Congenital muscular dystrophy with cerebellar involvement,Disease,Disorder,6,47
+ORPHA:370968,Congenital muscular dystrophy with intellectual disability,Disease,Disorder,5,43
+ORPHA:370980,Congenital muscular dystrophy without intellectual disability,Disease,Disorder,4,26
+ORPHA:369942,CADDS,Disease,Disorder,2,17
+ORPHA:364055,Severe early-childhood-onset retinal dystrophy,Disease,Disorder,9,33
+ORPHA:772,Infantile Refsum disease,Disease,Disorder,13,27
+ORPHA:357074,"Autosomal recessive cutis laxa type 2, classic type",Clinical subtype,Subtype of disorder,3,56
+ORPHA:352682,Cobblestone lissencephaly without muscular or ocular involvement,Disease,Disorder,2,12
+ORPHA:353327,Congenital myasthenic syndrome with glycosylation defect,Etiological subtype,Subtype of disorder,5,36
+ORPHA:294415,Renal-hepatic-pancreatic dysplasia,Malformation syndrome,Disorder,2,34
+ORPHA:293843,3MC syndrome,Malformation syndrome,Disorder,3,30
+ORPHA:811,Shwachman-Diamond syndrome,Disease,Disorder,3,69
+ORPHA:428,Autosomal dominant hypocalcemia,Clinical subtype,Subtype of disorder,2,30
+ORPHA:293181,Epilepsy of infancy with migrating focal seizures,Disease,Disorder,9,25
+ORPHA:289176,Autosomal recessive hypophosphatemic rickets,Disease,Disorder,2,34
+ORPHA:289157,Hypocalcemic vitamin D-dependent rickets,Disease,Disorder,2,46
+ORPHA:280763,Severe intellectual disability and progressive spastic paraplegia,Disease,Disorder,4,37
+ORPHA:309271,"Metachromatic leukodystrophy, adult form",Clinical subtype,Subtype of disorder,2,48
+ORPHA:309256,"Metachromatic leukodystrophy, late infantile form",Clinical subtype,Subtype of disorder,2,36
+ORPHA:309263,"Metachromatic leukodystrophy, juvenile form",Clinical subtype,Subtype of disorder,2,37
+ORPHA:300605,Juvenile amyotrophic lateral sclerosis,Disease,Disorder,14,46
+ORPHA:465508,Symptomatic form of HFE-related hemochromatosis,Disease,Disorder,2,44
+ORPHA:456328,X-linked myotubular myopathy-abnormal genitalia syndrome,Disease,Disorder,2,15
+ORPHA:459061,Craniofacial dysplasia-short stature-ectodermal anomalies-intellectual disability syndrome,Malformation syndrome,Disorder,2,40
+ORPHA:317,Erythrokeratodermia variabilis,Disease,Disorder,4,29
+ORPHA:248,Autosomal recessive hypohidrotic ectodermal dysplasia,Etiological subtype,Subtype of disorder,4,10
+ORPHA:1810,Autosomal dominant hypohidrotic ectodermal dysplasia,Etiological subtype,Subtype of disorder,5,15
+ORPHA:3437,Vogt-Koyanagi-Harada disease,Disease,Disorder,3,37
+ORPHA:2032,Idiopathic pulmonary fibrosis,Disease,Disorder,14,20
+ORPHA:891,Familial exudative vitreoretinopathy,Disease,Disorder,6,27
+ORPHA:467166,Tubulinopathy-associated dysgyria,Disease,Disorder,3,24
+ORPHA:402075,Familial bicuspid aortic valve,Morphological anomaly,Disorder,5,12
+ORPHA:411602,Hereditary late-onset Parkinson disease,Disease,Disorder,7,34
+ORPHA:411515,Angelman syndrome due to imprinting defect in 15q11-q13,Etiological subtype,Subtype of disorder,3,27
+ORPHA:371428,Multicentric osteolysis-nodulosis-arthropathy spectrum,Disease,Disorder,2,39
+ORPHA:391665,Homozygous familial hypercholesterolemia,Disease,Disorder,6,33
+ORPHA:391408,Primary microcephaly-mild intellectual disability-young-onset diabetes syndrome,Disease,Disorder,2,67
+ORPHA:391411,Atypical juvenile parkinsonism,Disease,Disorder,3,27
+ORPHA:397715,Joubert syndrome with Jeune asphyxiating thoracic dystrophy,Clinical subtype,Subtype of disorder,2,73
+ORPHA:397590,Silver-Russell syndrome due to a point mutation,Etiological subtype,Subtype of disorder,4,36
+ORPHA:399805,Male infertility with azoospermia or oligozoospermia due to single gene mutation,Disease,Disorder,38,7
+ORPHA:435638,Proximal 3p25.3 microdeletion syndrome,Malformation syndrome,Disorder,2,51
+ORPHA:436182,Microcephalic primordial dwarfism-insulin resistance syndrome,Malformation syndrome,Disorder,2,9
+ORPHA:436252,Combined immunodeficiency-multiple intestinal atresia,Disease,Disorder,2,30
+ORPHA:440437,Familial colorectal cancer Type X,Disease,Disorder,10,50
+ORPHA:442835,Non-specific early-onset epileptic encephalopathy,Disease,Disorder,54,48
+ORPHA:298,Mitochondrial neurogastrointestinal encephalomyopathy,Disease,Disorder,4,48
+ORPHA:552,MODY,Disease,Disorder,13,24
+ORPHA:443167,NUT midline carcinoma,Disease,Disorder,2,9
+ORPHA:130,Brugada syndrome,Disease,Disorder,22,12
+ORPHA:447877,Polymerase proofreading-related polyposis,Disease,Disorder,2,7
+ORPHA:29072,Hereditary pheochromocytoma-paraganglioma,Disease,Disorder,15,51
+ORPHA:545,Follicular lymphoma,Disease,Disorder,4,17
+ORPHA:88,Idiopathic aplastic anemia,Disease,Disorder,5,11
+ORPHA:824,Primary myelofibrosis,Disease,Disorder,4,35
+ORPHA:603,"Distal myopathy, Welander type",Disease,Disorder,2,12
+ORPHA:588,Muscle-eye-brain disease,Malformation syndrome,Disorder,9,23
+ORPHA:899,Walker-Warburg syndrome,Disease,Disorder,14,50
+ORPHA:495818,9q33.3q34.11 microdeletion syndrome,Malformation syndrome,Disorder,2,53
+ORPHA:302,Inherited epidermodysplasia verruciformis,Disease,Disorder,4,11
+ORPHA:500166,SIN3-related intellectual disability syndrome due to a point mutation,Etiological subtype,Subtype of disorder,2,20
+ORPHA:170,Woolly hair,Disease,Disorder,5,12
+ORPHA:520,Acute promyelocytic leukemia,Disease,Disorder,13,36
+ORPHA:432,Normosmic congenital hypogonadotropic hypogonadism,Clinical subtype,Subtype of disorder,19,38
+ORPHA:873,Desmoid tumor,Disease,Disorder,2,20
+ORPHA:703,Bullous pemphigoid,Disease,Disorder,2,15
+ORPHA:735,Porokeratosis of Mibelli,Disease,Disorder,2,5
+ORPHA:659,Mutilating palmoplantar keratoderma with periorificial keratotic plaques,Disease,Disorder,3,23
+ORPHA:853,Fetal and neonatal alloimmune thrombocytopenia,Disease,Disorder,6,17
+ORPHA:334,Hereditary atrial fibrillation,Disease,Disorder,24,11
+ORPHA:444,Marie Unna hereditary hypotrichosis,Disease,Disorder,2,5
+ORPHA:573,Monilethrix,Disease,Disorder,4,14
+ORPHA:122,Birt-Hogg-Dubé syndrome,Malformation syndrome,Disorder,2,21
+ORPHA:31112,Dermatofibrosarcoma protuberans,Disease,Disorder,2,8
+ORPHA:71275,Rh deficiency syndrome,Disease,Disorder,3,19
+ORPHA:70592,Transient predisposition to invasive pyogenic bacterial infection,Disease,Disorder,2,7
+ORPHA:70595,Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome,Disease,Disorder,2,31
+ORPHA:70567,Cholangiocarcinoma,Disease,Disorder,4,8
+ORPHA:69665,Intrahepatic cholestasis of pregnancy,Disease,Disorder,4,24
+ORPHA:67047,3-methylglutaconic aciduria type 3,Disease,Disorder,2,9
+ORPHA:65684,Monomelic amyotrophy,Disease,Disorder,2,10
+ORPHA:65759,Carpenter syndrome,Malformation syndrome,Disorder,2,40
+ORPHA:64752,Hereditary sensory and autonomic neuropathy type 5,Disease,Disorder,2,11
+ORPHA:64753,Spinocerebellar ataxia with axonal neuropathy type 2,Disease,Disorder,2,22
+ORPHA:64280,Childhood absence epilepsy,Disease,Disorder,5,21
+ORPHA:60033,Idiopathic bronchiectasis,Disease,Disorder,4,19
+ORPHA:60015,Enlarged parietal foramina,Malformation syndrome,Disorder,2,20
+ORPHA:60030,Loeys-Dietz syndrome,Malformation syndrome,Disorder,7,37
+ORPHA:54595,Craniopharyngioma,Disease,Disorder,2,46
+ORPHA:563612,Isolated exencephaly,Clinical subtype,Subtype of disorder,2,14
+ORPHA:563609,Isolated anencephaly,Clinical subtype,Subtype of disorder,2,6
+ORPHA:55654,Hypotrichosis simplex,Disease,Disorder,7,6
+ORPHA:79230,HJV or HAMP-related hemochromatosis,Disease,Disorder,2,15
+ORPHA:79145,Dowling-Degos disease,Disease,Disorder,4,25
+ORPHA:79102,Thyrotoxic periodic paralysis,Disease,Disorder,3,39
+ORPHA:79134,DEND syndrome,Disease,Disorder,3,18
+ORPHA:79076,Juvenile polyposis of infancy,Clinical subtype,Subtype of disorder,2,43
+ORPHA:75376,Autosomal dominant drusen,Disease,Disorder,3,20
+ORPHA:75377,Central areolar choroidal dystrophy,Disease,Disorder,3,17
+ORPHA:75382,Oguchi disease,Malformation syndrome,Disorder,2,11
+ORPHA:75392,Periodontal Ehlers-Danlos syndrome,Disease,Disorder,2,32
+ORPHA:75564,Acquired idiopathic sideroblastic anemia,Disease,Disorder,2,28
+ORPHA:75840,Ullrich congenital muscular dystrophy,Disease,Disorder,4,31
+ORPHA:77259,Gaucher disease type 1,Clinical subtype,Subtype of disorder,2,49
+ORPHA:75249,Familial isolated restrictive cardiomyopathy,Disease,Disorder,5,20
+ORPHA:71493,Familial thrombocytosis,Disease,Disorder,3,23
+ORPHA:71289,Radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome,Malformation syndrome,Disorder,2,6
+ORPHA:39041,Omenn syndrome,Disease,Disorder,10,28
+ORPHA:37553,Andersen-Tawil syndrome,Disease,Disorder,2,51
+ORPHA:36899,Myoclonus-dystonia syndrome,Disease,Disorder,4,11
+ORPHA:35612,Isolated complete colobomatous microphthalmia,Clinical subtype,Subtype of disorder,10,6
+ORPHA:35099,Non-syndromic bicoronal craniosynostosis,Morphological anomaly,Disorder,4,11
+ORPHA:36387,Genetic epilepsy with febrile seizure plus,Disease,Disorder,13,28
+ORPHA:36426,Stevens-Johnson syndrome,Clinical subtype,Subtype of disorder,2,39
+ORPHA:36386,Hereditary sensory and autonomic neuropathy type 1,Disease,Disorder,4,29
+ORPHA:35858,Imerslund-Gräsbeck syndrome,Disease,Disorder,2,30
+ORPHA:35909,Combined deficiency of factor V and factor VIII,Disease,Disorder,2,18
+ORPHA:33402,Pediatric hepatocellular carcinoma,Disease,Disorder,2,9
+ORPHA:33110,Autosomal non-syndromic agammaglobulinemia,Clinical subtype,Subtype of disorder,10,29
+ORPHA:33069,Dravet syndrome,Disease,Disorder,7,46
+ORPHA:33364,Trichothiodystrophy,Disease,Disorder,10,91
+ORPHA:52429,Branchiootic syndrome,Malformation syndrome,Disorder,2,16
+ORPHA:52430,Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,Disease,Disorder,3,43
+ORPHA:52416,Mantle cell lymphoma,Disease,Disorder,3,9
+ORPHA:52427,Retinitis punctata albescens,Disease,Disorder,4,19
+ORPHA:52417,MALT lymphoma,Disease,Disorder,5,17
+ORPHA:49382,Achromatopsia,Disease,Disorder,7,20
+ORPHA:51083,Congenital short QT syndrome,Disease,Disorder,5,9
+ORPHA:52022,Potocki-Shaffer syndrome,Malformation syndrome,Disorder,3,23
+ORPHA:51608,Generalized arterial calcification of infancy,Disease,Disorder,2,59
+ORPHA:44890,Gastrointestinal stromal tumor,Disease,Disorder,5,18
+ORPHA:45358,Congenital fibrosis of extraocular muscles,Disease,Disorder,6,36
+ORPHA:46532,Hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome,Disease,Disorder,4,6
+ORPHA:90050,Retinopathy of prematurity,Disease,Disorder,3,15
+ORPHA:90026,Primary erythromelalgia,Disease,Disorder,3,14
+ORPHA:89844,"Lissencephaly syndrome, Norman-Roberts type",Clinical subtype,Subtype of disorder,3,35
+ORPHA:89938,Bartter syndrome type 4,Clinical subtype,Subtype of disorder,3,35
+ORPHA:90348,Autosomal dominant cutis laxa,Disease,Disorder,3,59
+ORPHA:90349,Autosomal recessive cutis laxa type 1,Disease,Disorder,3,37
+ORPHA:90354,Brittle cornea syndrome,Disease,Disorder,2,47
+ORPHA:90308,Capillary-lymphatic-venous malformation with segmental distribution,Disease,Disorder,2,31
+ORPHA:90322,Cockayne syndrome type 2,Clinical subtype,Subtype of disorder,3,40
+ORPHA:90321,Cockayne syndrome type 1,Clinical subtype,Subtype of disorder,3,57
+ORPHA:90324,Cockayne syndrome type 3,Clinical subtype,Subtype of disorder,2,74
+ORPHA:86909,Myoclonic epilepsy of infancy,Disease,Disorder,3,34
+ORPHA:89838,Autosomal recessive generalized epidermolysis bullosa simplex,Disease,Disorder,2,20
+ORPHA:88918,Autosomal dominant Alport syndrome,Clinical subtype,Subtype of disorder,2,9
+ORPHA:88919,Autosomal recessive Alport syndrome,Clinical subtype,Subtype of disorder,2,15
+ORPHA:93258,Pfeiffer syndrome type 1,Clinical subtype,Subtype of disorder,2,21
+ORPHA:93271,"Short rib-polydactyly syndrome, Verma-Naumoff type",Malformation syndrome,Disorder,5,47
+ORPHA:93321,Isolated radial hemimelia,Morphological anomaly,Disorder,2,6
+ORPHA:93315,"Spondylometaphyseal dysplasia, 'corner fracture' type",Disease,Disorder,2,54
+ORPHA:529962,17q24.2 microdeletion syndrome,Malformation syndrome,Disorder,2,46
+ORPHA:90695,Non-acquired panhypopituitarism,Disease,Disorder,2,27
+ORPHA:529970,Male infertility due to acephalic spermatozoa,Clinical subtype,Subtype of disorder,2,5
+ORPHA:90368,Hypotrichosis simplex of the scalp,Disease,Disorder,2,12
+ORPHA:90654,Stickler syndrome type 2,Clinical subtype,Subtype of disorder,2,9
+ORPHA:90647,Jervell and Lange-Nielsen syndrome,Disease,Disorder,2,11
+ORPHA:91387,Familial thoracic aortic aneurysm and aortic dissection,Disease,Disorder,20,41
+ORPHA:91495,Persistent hyperplastic primary vitreous,Disease,Disorder,3,24
+ORPHA:90796,"46,XY difference of sex development due to isolated 17,20-lyase deficiency",Disease,Disorder,2,36
+ORPHA:79396,"Autosomal dominant generalized epidermolysis bullosa simplex, severe form",Disease,Disorder,2,44
+ORPHA:79397,Epidermolysis bullosa simplex with mottled pigmentation,Disease,Disorder,2,19
+ORPHA:79394,Congenital ichthyosiform erythroderma,Disease,Disorder,9,13
+ORPHA:79399,"Autosomal dominant generalized epidermolysis bullosa simplex, intermediate form",Disease,Disorder,2,17
+ORPHA:79400,Localized epidermolysis bullosa simplex,Disease,Disorder,2,22
+ORPHA:79403,Junctional epidermolysis bullosa with pyloric atresia,Disease,Disorder,2,21
+ORPHA:79402,Intermediate generalized junctional epidermolysis bullosa,Disease,Disorder,5,14
+ORPHA:79404,Severe generalized junctional epidermolysis bullosa,Disease,Disorder,3,61
+ORPHA:79408,"Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form",Disease,Disorder,2,54
+ORPHA:79432,Oculocutaneous albinism type 2,Disease,Disorder,2,24
+ORPHA:79243,Pyruvate dehydrogenase E1-alpha deficiency,Clinical subtype,Subtype of disorder,2,55
+ORPHA:79277,Congenital erythropoietic porphyria,Disease,Disorder,2,50
+ORPHA:79315,D-2-hydroxyglutaric aciduria,Disease,Disorder,2,13
+ORPHA:85193,Idiopathic juvenile osteoporosis,Malformation syndrome,Disorder,3,6
+ORPHA:85410,Oligoarticular juvenile idiopathic arthritis,Disease,Disorder,7,20
+ORPHA:85414,Systemic-onset juvenile idiopathic arthritis,Disease,Disorder,4,22
+ORPHA:85408,Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis,Disease,Disorder,7,31
+ORPHA:86814,Familial adult myoclonic epilepsy,Disease,Disorder,8,8
+ORPHA:86820,Familial avascular necrosis of femoral head,Disease,Disorder,2,9
+ORPHA:86818,Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome,Disease,Disorder,3,22
+ORPHA:79500,DOORS syndrome,Malformation syndrome,Disorder,2,89
+ORPHA:79501,Punctate palmoplantar keratoderma type 1,Disease,Disorder,2,25
+ORPHA:83469,Desmoplastic small round cell tumor,Disease,Disorder,2,18
+ORPHA:83465,Narcolepsy type 2,Disease,Disorder,4,5
+ORPHA:83473,Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome,Malformation syndrome,Disorder,3,16
+ORPHA:83472,CAMOS syndrome,Malformation syndrome,Disorder,2,15
+ORPHA:84081,Senior-Boichis syndrome,Disease,Disorder,2,34
+ORPHA:84064,Trichohepatoenteric syndrome,Disease,Disorder,2,52
+ORPHA:85173,IMAGe syndrome,Malformation syndrome,Disorder,2,13
+ORPHA:97244,Rigid spine syndrome,Disease,Disorder,2,20
+ORPHA:97279,Insulinoma,Disease,Disorder,2,34
+ORPHA:97286,Carney-Stratakis syndrome,Disease,Disorder,4,10
+ORPHA:97362,"Renal hypoplasia, bilateral",Clinical subtype,Subtype of disorder,2,31
+ORPHA:96191,Paternal uniparental disomy of chromosome 6 syndrome,Malformation syndrome,Disorder,2,30
+ORPHA:96184,Temple syndrome due to maternal uniparental disomy of chromosome 14,Etiological subtype,Subtype of disorder,3,35
+ORPHA:96253,Cushing disease,Disease,Disorder,7,64
+ORPHA:96334,Kagami-Ogata syndrome due to paternal uniparental disomy of chromosome 14,Etiological subtype,Subtype of disorder,3,119
+ORPHA:95706,Non-syndromic posterior hypospadias,Morphological anomaly,Disorder,2,16
+ORPHA:95716,Familial thyroid dyshormonogenesis,Disease,Disorder,6,29
+ORPHA:95713,Athyreosis,Morphological anomaly,Disorder,6,25
+ORPHA:95712,Thyroid ectopia,Morphological anomaly,Disorder,2,26
+ORPHA:95496,Pituitary stalk interruption syndrome,Morphological anomaly,Disorder,7,16
+ORPHA:95494,"Combined pituitary hormone deficiencies, genetic forms",Disease,Disorder,7,39
+ORPHA:95434,Autosomal recessive cerebellar ataxia-movement disorder syndrome,Disease,Disorder,2,20
+ORPHA:94063,12q14 microdeletion syndrome,Malformation syndrome,Disorder,2,37
+ORPHA:94088,Hereditary renal hypouricemia,Malformation syndrome,Disorder,2,16
+ORPHA:94089,Pseudohypoparathyroidism type 1B,Disease,Disorder,2,36
+ORPHA:95720,Thyroid hypoplasia,Morphological anomaly,Disorder,3,15
+ORPHA:93552,Pediatric systemic lupus erythematosus,Disease,Disorder,4,53
+ORPHA:93405,Syndactyly type 4,Morphological anomaly,Disorder,2,9
+ORPHA:93387,Brachydactyly type E,Malformation syndrome,Disorder,2,10
+ORPHA:93388,Brachydactyly type A1,Malformation syndrome,Disorder,3,12
+ORPHA:93384,Brachydactyly type C,Malformation syndrome,Disorder,2,14
+ORPHA:93396,Brachydactyly type A2,Malformation syndrome,Disorder,3,7
+ORPHA:93930,Classic bladder exstrophy,Clinical subtype,Subtype of disorder,2,13
+ORPHA:93926,Midline interhemispheric variant of holoprosencephaly,Clinical subtype,Subtype of disorder,15,72
+ORPHA:93924,Lobar holoprosencephaly,Clinical subtype,Subtype of disorder,16,72
+ORPHA:93925,Alobar holoprosencephaly,Clinical subtype,Subtype of disorder,17,72
+ORPHA:93921,Full schwannomatosis,Disease,Disorder,4,20
+ORPHA:99103,"Atrial septal defect, ostium secundum type",Clinical subtype,Subtype of disorder,8,35
+ORPHA:99725,Pituitary gigantism,Disease,Disorder,2,20
+ORPHA:98820,Familial focal epilepsy with variable foci,Disease,Disorder,4,26
+ORPHA:98813,Hypohidrotic ectodermal dysplasia with immunodeficiency,Disease,Disorder,2,34
+ORPHA:98811,Paroxysmal exertion-induced dyskinesia,Disease,Disorder,2,17
+ORPHA:98810,Paroxysmal non-kinesigenic dyskinesia,Disease,Disorder,2,15
+ORPHA:98809,Paroxysmal kinesigenic dyskinesia,Disease,Disorder,3,9
+ORPHA:98808,Autosomal dominant dopa-responsive dystonia,Disease,Disorder,3,33
+ORPHA:98853,Autosomal dominant Emery-Dreifuss muscular dystrophy,Etiological subtype,Subtype of disorder,4,43
+ORPHA:98850,Aggressive systemic mastocytosis,Disease,Disorder,5,39
+ORPHA:98849,Systemic mastocytosis with associated hematologic neoplasm,Disease,Disorder,4,45
+ORPHA:98870,Congenital dyserythropoietic anemia type III,Disease,Disorder,2,20
+ORPHA:98863,X-linked Emery-Dreifuss muscular dystrophy,Etiological subtype,Subtype of disorder,2,43
+ORPHA:98881,Familial dysfibrinogenemia,Clinical subtype,Subtype of disorder,3,5
+ORPHA:98880,Familial afibrinogenemia,Clinical subtype,Subtype of disorder,3,6
+ORPHA:98897,Oculopharyngodistal myopathy,Disease,Disorder,6,36
+ORPHA:98896,Duchenne muscular dystrophy,Disease,Disorder,2,15
+ORPHA:98889,Bilateral perisylvian polymicrogyria,Clinical subtype,Subtype of disorder,3,49
+ORPHA:98892,Periventricular nodular heterotopia,Clinical subtype,Subtype of disorder,7,16
+ORPHA:98915,Synaptic congenital myasthenic syndrome,Etiological subtype,Subtype of disorder,3,54
+ORPHA:98973,Posterior polymorphous corneal dystrophy,Disease,Disorder,5,20
+ORPHA:98974,Fuchs endothelial corneal dystrophy,Disease,Disorder,5,9
+ORPHA:98976,Congenital glaucoma,Disease,Disorder,4,19
+ORPHA:98977,Juvenile glaucoma,Disease,Disorder,3,15
+ORPHA:99000,Adult-onset foveomacular vitelliform dystrophy,Disease,Disorder,4,9
+ORPHA:98673,"Autosomal dominant optic atrophy, classic form",Disease,Disorder,3,44
+ORPHA:98794,Angelman syndrome due to maternal 15q11q13 deletion,Etiological subtype,Subtype of disorder,2,50
+ORPHA:98791,Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16,Malformation syndrome,Disorder,2,32
+ORPHA:98784,Sleep-related hypermotor epilepsy,Disease,Disorder,7,21
+ORPHA:98760,Spinocerebellar ataxia type 8,Disease,Disorder,2,23
+ORPHA:98754,Prader-Willi syndrome due to maternal uniparental disomy of chromosome 15,Etiological subtype,Subtype of disorder,4,67
+ORPHA:98434,Hereditary combined deficiency of vitamin K-dependent clotting factors,Disease,Disorder,2,31
+ORPHA:572013,Posterior-predominant lissencephaly-broad flat pons and medulla-midline crossing defects syndrome,Malformation syndrome,Disorder,2,20
+ORPHA:103918,Tropical pancreatitis,Disease,Disorder,2,11
+ORPHA:697160,Infantile epileptic spasms syndrome,Disease,Disorder,13,6
+ORPHA:101150,Autosomal recessive dopa-responsive dystonia,Disease,Disorder,2,33
+ORPHA:101046,Epilepsy with auditory features,Disease,Disorder,3,17
+ORPHA:101023,Cleft hard palate,Morphological anomaly,Disorder,2,5
+ORPHA:685082,Pediatric acute respiratory distress syndrome,Disease,Disorder,3,16
+ORPHA:100993,Autosomal dominant spastic paraplegia type 12,Disease,Disorder,2,22
+ORPHA:100069,Semantic dementia,Disease,Disorder,7,10
+ORPHA:100070,Progressive non-fluent aphasia,Disease,Disorder,8,28
+ORPHA:99977,Squamous cell carcinoma of the esophagus,Disease,Disorder,4,8
+ORPHA:99879,Familial isolated hyperparathyroidism,Disease,Disorder,3,13
+ORPHA:99885,Isolated permanent neonatal diabetes mellitus,Disease,Disorder,6,34
+ORPHA:99886,Transient neonatal diabetes mellitus,Disease,Disorder,5,21
+ORPHA:99845,Genetic recurrent myoglobinuria,Disease,Disorder,4,32
+ORPHA:99798,Oligodontia,Morphological anomaly,Disorder,12,23
+ORPHA:99802,Hemimegalencephaly,Malformation syndrome,Disorder,3,33
+ORPHA:99803,Haddad syndrome,Malformation syndrome,Disorder,3,18
+ORPHA:99772,Cleft velum,Morphological anomaly,Disorder,2,13

@@ -1,0 +1,2 @@
+eligible_target_pairs,eligible_diseases,eligible_genes,unique_provenance_records,records_without_source_disease,targets_with_same_ORPHA_source_annotations,targets_with_same_source_and_shared_phenotype,same_ORPHA_source_percentage
+2584,512,1808,161020,0,2580,2580,99.84520123839009

@@ -1,0 +1,21 @@
+{
+  "split_seed": 42,
+  "negative_to_positive_ratio": 3,
+  "two_gene_diseases": 224,
+  "two_gene_diseases_val": 112,
+  "two_gene_diseases_test": 112,
+  "rules": [
+    "n=2: one train positive; one held-out positive assigned to val or test, balanced across diseases",
+    "n>=3: val=max(1,floor(0.1*n)); test=max(1,floor(0.2*n)); train=remainder",
+    "each disease has >=1 training target; no guarantee all genes have a training target",
+    "negatives sampled without replacement per disease then partitioned across splits",
+    "all known mapped association types excluded from negative candidates"
+  ],
+  "message_passing": "not built; later use train_edges.csv only for disease-gene edges",
+  "evaluation_scope": "known diseases, retained candidate genes only; report genes with no training target separately",
+  "source_sha256": {
+    "edges_disease_gene.csv": "f0a5f4bb9c85f5eae5429a7be70db29e6714736939b7a7f198676023d4296e4d",
+    "negative_block_pairs.csv": "d745bb21fb5b7235b41c398f3d5ac7df1442a081c5f1560f321f5995d11d8ddf",
+    "nodes_gene.csv": "3e7568f8b318806d851279fb85546e75867aee4a8a492b7d71b092cdb0dff435"
+  }
+}
